@@ -1,0 +1,44 @@
+# Ignore local files that may contain sensitive information
+settings*.ini
+
+# Ignore any local files or stored data
+*.sqlite
+*.db
+*.log
+*.geojson
+*.json
+*.csv
+*.zip
+*.png
+*.tiff
+*.TIFF
+*.html
+*.txt
+*.pdf
+
+# vi
+
+# Swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+
+# Session
+Session.vim
+
+# Temporary
+.netrwhist
+*~
+# Auto-generated tag files
+tags
+
+# macOS
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
