@@ -1009,7 +1009,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Judge, Court of Criminal Appeals, Place 5",0980,888,333,1019,1412,72.17%,882,257,23,14,978
 "Judge, Court of Criminal Appeals, Place 5",0981,12,2,14,31,45.18%,1,12,0,0,13
 "Judge, Court of Criminal Appeals, Place 5",0982,1900,501,2401,2918,82.34%,1745,498,82,28,2331
-"Judge, Court of Criminal Appeals, Place 5",0983,85,17,82,198,41.41,%,38,37,4,3,80
+"Judge, Court of Criminal Appeals, Place 5",0983,85,17,82,198,41.41%,38,37,4,3,80
 "Judge, Court of Criminal Appeals, Place 5",0984,78,57,133,341,39.00%,11,115,3,2,131
 "Judge, Court of Criminal Appeals, Place 5",0985,222,58,278,355,78.31%,122,138,8,4,288
 "Judge, Court of Criminal Appeals, Place 5",0988,154,78,232,537,43.20%,21,195,1,8,225
@@ -1040,4 +1040,4 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Judge, Court of Criminal Appeals, Place 5",1010,293,96,389,647,60.12%,61,298,6,10,375
 "Judge, Court of Criminal Appeals, Place 5",1011,9,6,15,31,48.39%,9,6,0,0,15
 "Judge, Court of Criminal Appeals, Place 5",1012,545,362,907,1633,55.54%,204,621,17,22,864
-"Judge, Court of Criminal Appeals, Place 5",Totals;,983140,353327,1336467,2182980,591778,636514,29873,26869,1285034
+"Judge, Court of Criminal Appeals, Place 5",Totals;,983140,353327,1336467,2182980,,591778,636514,29873,26869,1285034

@@ -244,7 +244,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "District Judge, 174th Judicial District",0237,739,312,1051,2146,48.97%,20,997,1017
 "District Judge, 174th Judicial District",0238,606,317,923,1948,47.38%,31,859,890
 Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Katherine McDaniel,DEM Hazel B. Jones,Totals
-"District Judge, 174th Judicial District",0239,694,334,1028,1984,51.81,%,33,972,1005
+"District Judge, 174th Judicial District",0239,694,334,1028,1984,51.81%,33,972,1005
 "District Judge, 174th Judicial District",0240,1007,292,1299,2601,49.94%,32,1238,1270
 "District Judge, 174th Judicial District",0241,651,383,1034,2466,41.93%,326,661,987
 "District Judge, 174th Judicial District",0242,506,314,820,1744,47.02%,360,406,766
@@ -910,7 +910,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "District Judge, 174th Judicial District",0884,149,55,204,396,51.52%,29,170,199
 Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Katherine McDaniel,DEM Hazel B. Jones,Totals
 "District Judge, 174th Judicial District",0885,1570,323,1893,2811,67.34%,1043,783,1826
-"District Judge, 174th Judicial District",0886,495,152,647,906,71.41,%,337,257,594
+"District Judge, 174th Judicial District",0886,495,152,647,906,71.41%,337,257,594
 "District Judge, 174th Judicial District",0887,234,95,329,492,66.87%,166,129,295
 "District Judge, 174th Judicial District",0888,817,289,1106,1867,59.24%,353,708,1061
 "District Judge, 174th Judicial District",0889,113,28,141,238,59.24%,37,95,132
@@ -1009,7 +1009,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "District Judge, 174th Judicial District",0980,686,333,1019,1412,72.17%,698,265,963
 "District Judge, 174th Judicial District",0981,12,2,14,31,45.16%,1,12,13
 "District Judge, 174th Judicial District",0982,1898,501,2399,2916,82.27%,1782,516,2298
-"District Judge, 174th Judicial District",0983,65,17,82,198,41.41,%,44,36,80
+"District Judge, 174th Judicial District",0983,65,17,82,198,41.41%,44,36,80
 "District Judge, 174th Judicial District",0984,76,57,133,341,39.00%,12,120,132
 "District Judge, 174th Judicial District",0985,222,56,278,355,78.31%,124,139,263
 "District Judge, 174th Judicial District",0986,153,78,231,537,43.02%,22,202,224
@@ -1040,4 +1040,4 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "District Judge, 174th Judicial District",1010,292,96,388,647,59.97%,69,304,373
 "District Judge, 174th Judicial District",1011,9,6,15,31,48.39%,9,6,15
 "District Judge, 174th Judicial District",1012,543,362,905,1633,55.42%,214,640,854
-"District Judge, 174th Judicial District",Totals:,981446,353327,1334773,2182980,606487,661559,1268046
+"District Judge, 174th Judicial District",Totals:,981446,353327,1334773,2182980,,606487,661559,1268046

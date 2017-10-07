@@ -1009,7 +1009,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Judge, Court of Criminal Appeals, Place 6",0980,686,333,1019,1412,72.17%,679,261,32,972
 "Judge, Court of Criminal Appeals, Place 6",0981,12,2,14,31,45.16%,1,12,0,13
 "Judge, Court of Criminal Appeals, Place 6",0982,1900,501,2401,2916,82.34%,1752,491,88,2331
-"Judge, Court of Criminal Appeals, Place 6",0983,55,17,82,198,41.41,%,37,36,7,80
+"Judge, Court of Criminal Appeals, Place 6",0983,55,17,82,198,41.41%,37,36,7,80
 "Judge, Court of Criminal Appeals, Place 6",0984,75,57,133,341,39.00%,11,115,4,130
 "Judge, Court of Criminal Appeals, Place 6",0985,222,56,278,355,78.31%,120,136,9,265
 "Judge, Court of Criminal Appeals, Place 6",0986,154,78,232,537,43.20%,22,200,2,224
@@ -1040,4 +1040,4 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Judge, Court of Criminal Appeals, Place 6",1010,293,96,389,647,60.12%,66,299,9,374
 "Judge, Court of Criminal Appeals, Place 6",1011,9,6,15,31,48.39%,9,6,0,15
 "Judge, Court of Criminal Appeals, Place 6",1012,545,362,907,1633,55.54%,208,639,22,869
-"Judge, Court of Criminal Appeals, Place 6",Totals;,983140,353327,1336467,2182980,587598,650234,44206,1282038
+"Judge, Court of Criminal Appeals, Place 6",Totals;,983140,353327,1336467,2182980,,587598,650234,44206,1282038

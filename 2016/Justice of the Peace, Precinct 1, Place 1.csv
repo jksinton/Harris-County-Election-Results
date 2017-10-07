@@ -192,7 +192,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice of the Peace, Precinct 1, Place 1",0868,736,495,1231,2446,50.33%,307,861,1168
 "Justice of the Peace, Precinct 1, Place 1",0870,0,2,2,0,0.00%,2,0,2
 "Justice of the Peace, Precinct 1, Place 1",0884,149,55,204,396,51.52%,27,172,199
-"Justice of the Peace, Precinct 1, Place 1",0886,495,152,647,906,71.41,%,323,273,596
+"Justice of the Peace, Precinct 1, Place 1",0886,495,152,647,906,71.41%,323,273,596
 "Justice of the Peace, Precinct 1, Place 1",0887,234,95,329,492,66.87%,166,128,294
 "Justice of the Peace, Precinct 1, Place 1",0890,445,98,543,1214,44.73%,213,283,496
 "Justice of the Peace, Precinct 1, Place 1",0895,417,252,669,834,80.22%,248,363,611
@@ -224,4 +224,4 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice of the Peace, Precinct 1, Place 1",1003,0,0,0,0,0.00%,0,0,0
 "Justice of the Peace, Precinct 1, Place 1",1004,349,114,453,691,67.00%,216,223,439
 "Justice of the Peace, Precinct 1, Place 1",1011,9,6,15,31,48.39%,10,5,15
-"Justice of the Peace, Precinct 1, Place 1",Totals;,160026,64106,224126,662009,77548,162514,210062
+"Justice of the Peace, Precinct 1, Place 1",Totals;,160026,64106,224126,662009,,77548,162514,210062

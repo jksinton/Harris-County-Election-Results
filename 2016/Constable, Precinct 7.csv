@@ -29,7 +29,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Constable, Precinct 7",0236,656,308,964,2104,45.82%,915,915
 "Constable, Precinct 7",0237,739,312,1051,2146,48.97%,1010,1010
 "Constable, Precinct 7",0238,606,317,923,1948,47.38%,876,876
-"Constable, Precinct 7",0239,694,334,1028,1984,51.81,%,982,982
+"Constable, Precinct 7",0239,694,334,1028,1984,51.81%,982,982
 "Constable, Precinct 7",0240,1007,292,1299,2601,49.94%,1248,1248
 "Constable, Precinct 7",0243,244,42,286,475,60.21%,281,281
 "Constable, Precinct 7",0247,440,376,816,1595,51.16%,781,781
@@ -98,4 +98,4 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Constable, Precinct 7",0994,55,12,68,75,90.67%,52,52
 "Constable, Precinct 7",0995,753,193,946,1576,60.03%,857,857
 "Constable, Precinct 7",1010,292,96,388,647,59.97%,320,320
-"Constable, Precinct 7",Totals;,76813,28804,105617,185660,91249,91249
+"Constable, Precinct 7",Totals;,76813,28804,105617,185660,,91249,91249

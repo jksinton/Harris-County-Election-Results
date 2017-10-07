@@ -1027,7 +1027,7 @@ President and Vice President,1009,0,0,0,0,0.00%,0,0,0,0,0,0,0,0
 President and Vice President,1010,293,96,389,647,60.12%,66,306,8,7,0,0,0,0
 President and Vice President,1011,9,6,15,31,48.39%,6,6,1,0,2,0,0,0
 President and Vice President,1012,545,362,907,1633,55.54%,195,661,22,8,1,0,0,0
-President and Vice President,Totals:,985571,353327,1338898,2182980,545955,707914,39781,11784,471,68,1,62
+President and Vice President,Totals:,985571,353327,1338898,2182980,,545955,707914,39781,11784,471,68,1,62
 Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,Laurence Kotlikoffl Edward Leamer,Jonathan Lee] Jeffrey Erskine,Michael A. Maturen I Juan A. Munoz,Evan McMullinl Nathan Johnson,Monica Mooreheadl Lamont Lilly,Robert Morrow] Todd Sanders,Emidio Soltysikl Angela Walker,Dale Steffes I Paul E. Case
 President and Vice President,0001,1429,496,1925,2682,71.77%,2,0,0,6,0,0,0,0
 President and Vice President,0002,1011,370,1381,2099,65.79%,0,0,0,8,0,0,0,0
@@ -2070,7 +2070,7 @@ President and Vice President,1009,0,0,0,0,0.00%,0,0,0,0,0,0,0,0
 President and Vice President,1010,293,96,389,647,60.12%,0,0,0,0,0,0,0,0
 President and Vice President,1011,9,6,15,31,48.39%,0,0,0,0,0,0,0,0
 President and Vice President,1012,545,362,907,1633,55.54%,0,0,0,0,0,0,0,0
-President and Vice President,Totals:,985571,353327,1338898,2182980,168,2,208,5647,21,7,6,9
+President and Vice President,Totals:,985571,353327,1338898,2182980,,168,2,208,5647,21,7,6,9
 Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,Tony Valdivia I Aaron Barriere,Totals
 President and Vice President,0001,1429,496,1925,2682,71.77%,0,1891
 President and Vice President,0002,1011,370,1381,2099,65.79%,0,1337
@@ -3082,7 +3082,7 @@ President and Vice President,0979,0,0,0,0,0.00%,0,0
 President and Vice President,0980,687,333,1020,1412,72.24%,0,1006
 President and Vice President,0981,12,2,14,31,45.16%,0,12
 President and Vice President,0982,1904,501,2405,2916,82.48%,0,2373
-President and Vice President,0983,65,17,82,198,41.41,%,0,80
+President and Vice President,0983,65,17,82,198,41.41%,0,80
 President and Vice President,0984,76,57,133,341,39.00%,0,130
 President and Vice President,0985,224,56,280,355,78.87%,0,268
 President and Vice President,0986,154,78,232,537,43.20%,0,230

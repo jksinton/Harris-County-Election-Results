@@ -545,7 +545,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Chief Justice, 1st Court of Appeals",0529,2107,434,2541,3842,66.14%,2062,379,2441
 "Chief Justice, 1st Court of Appeals",0530,376,212,588,1236,47.57%,114,424,538
 "Chief Justice, 1st Court of Appeals",0531,1235,166,1401,2250,62.27%,1003,318,1321
-"Chief Justice, 1st Court of Appeals",0532,478,140,618,1058,58.41,%,404,199,603
+"Chief Justice, 1st Court of Appeals",0532,478,140,618,1058,58.41%,404,199,603
 "Chief Justice, 1st Court of Appeals",0533,353,169,522,1164,44.85%,248,242,490
 "Chief Justice, 1st Court of Appeals",0534,1896,577,2473,3918,63.12%,1691,672,2363
 "Chief Justice, 1st Court of Appeals",0535,132,62,194,413,46.97%,59,122,181
@@ -1009,7 +1009,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Chief Justice, 1st Court of Appeals",0980,686,333,1019,1412,72.17%,703,267,970
 "Chief Justice, 1st Court of Appeals",0981,12,2,14,31,45.16%,1,12,13
 "Chief Justice, 1st Court of Appeals",0982,1898,501,2399,2916,82.27%,1796,517,2313
-"Chief Justice, 1st Court of Appeals",0983,65,17,82,198,41.41,%,44,36,80
+"Chief Justice, 1st Court of Appeals",0983,65,17,82,198,41.41%,44,36,80
 "Chief Justice, 1st Court of Appeals",0984,76,57,133,341,39.00%,9,122,131
 "Chief Justice, 1st Court of Appeals",0985,222,56,278,355,78.31%,132,135,267
 "Chief Justice, 1st Court of Appeals",0986,154,78,232,537,43.20%,24,200,224
@@ -1040,4 +1040,4 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Chief Justice, 1st Court of Appeals",1010,292,96,388,647,59.97%,73,302,375
 "Chief Justice, 1st Court of Appeals",1011,9,6,15,31,48.39%,9,6,15
 "Chief Justice, 1st Court of Appeals",1012,543,362,905,1633,55.42%,212,647,859
-"Chief Justice, 1st Court of Appeals",Totals;,982016,353327,1335343,2182980,619676,657270,1276946
+"Chief Justice, 1st Court of Appeals",Totals;,982016,353327,1335343,2182980,,619676,657270,1276946

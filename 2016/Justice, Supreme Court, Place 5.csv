@@ -244,7 +244,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 5",0237,740,312,1052,2146,49.02%,31,980,6,13,1030
 "Justice, Supreme Court, Place 5",0238,607,317,924,1948,47.43%,30,843,7,14,894
 Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Paul Green,DEM Dori Contreras Garza,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
-"Justice, Supreme Court, Place 5",0239,694,334,1028,1984,51.81,%,38,952,7,12,1009
+"Justice, Supreme Court, Place 5",0239,694,334,1028,1984,51.81%,38,952,7,12,1009
 "Justice, Supreme Court, Place 5",0240,1008,292,1300,2601,49.98%,32,1213,6,15,1266
 "Justice, Supreme Court, Place 5",0241,652,383,1035,2466,41.97%,306,666,11,16,999
 "Justice, Supreme Court, Place 5",0242,507,314,821,1744,47.08%,347,405,18,14,784
@@ -1009,7 +1009,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 5",0980,686,333,1019,1412,72.17%,680,265,26,8,979
 "Justice, Supreme Court, Place 5",0981,12,2,14,31,45.16%,1,12,0,0,13
 "Justice, Supreme Court, Place 5",0982,1900,501,2401,2916,82.34%,1740,516,75,18,2349
-"Justice, Supreme Court, Place 5",0983,55,17,82,198,41.41,%,36,35,7,2,80
+"Justice, Supreme Court, Place 5",0983,55,17,82,198,41.41%,36,35,7,2,80
 "Justice, Supreme Court, Place 5",0984,76,57,133,341,39.00%,11,116,2,1,130
 "Justice, Supreme Court, Place 5",0985,222,56,278,355,78.31%,125,136,4,4,259
 "Justice, Supreme Court, Place 5",0986,154,78,232,537,43.20%,23,198,2,4,227
@@ -1040,4 +1040,4 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 5",1010,293,96,389,647,60.12%,66,298,8,5,377
 "Justice, Supreme Court, Place 5",1011,9,6,15,31,48.39%,9,5,0,1,15
 "Justice, Supreme Court, Place 5",1012,545,362,907,1633,55.54%,213,632,20,11,876
-"Justice, Supreme Court, Place 5",Totals;,983140,353327,1336467,2182980,585624,656317,34256,16267,1292464
+"Justice, Supreme Court, Place 5",Totals;,983140,353327,1336467,2182980,,585624,656317,34256,16267,1292464

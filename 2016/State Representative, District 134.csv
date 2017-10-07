@@ -52,7 +52,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "State Representative, District 134",0826,177,70,247,355,69.58%,136,100,3,239
 "State Representative, District 134",0830,2,2,4,2,200.00%,4,0,0,4
 "State Representative, District 134",0837,0,0,0,0,0.00%,0,0,0,0
-"State Representative, District 134",0886,495,152,647,906,71.41,%,338,245,39,622
+"State Representative, District 134",0886,495,152,647,906,71.41%,338,245,39,622
 "State Representative, District 134",0895,417,252,669,834,80.22%,311,325,9,645
 "State Representative, District 134",0896,838,254,1092,1467,74.44%,386,657,20,1063
 "State Representative, District 134",0902,1310,361,1671,2217,75.37%,855,675,77,1607
@@ -62,4 +62,4 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "State Representative, District 134",0933,297,93,390,668,58.38%,116,251,10,377
 "State Representative, District 134",0942,102,16,118,152,77.63%,80,35,2,117
 "State Representative, District 134",0956,0,0,0,0,0.00%,0,0,0,0
-"State Representative, District 134",Totals:,66623,26544,93167,126498,48192,38958,2831,89981
+"State Representative, District 134",Totals:,66623,26544,93167,126498,,48192,38958,2831,89981

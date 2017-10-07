@@ -910,7 +910,7 @@ County Tax Assessor-Collector,0883,2252,928,3180,5613,56.65%,624,2452,3076
 County Tax Assessor-Collector,0884,149,55,204,396,51.52%,29,170,199
 Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Mike Sullivan,DEM Ann Harris Bennett,Totals
 County Tax Assessor-Collector,0885,1570,323,1893,2811,67.34%,1087,761,1848
-County Tax Assessor-Collector,0886,495,152,647,906,71.41,%,363,253,616
+County Tax Assessor-Collector,0886,495,152,647,906,71.41%,363,253,616
 County Tax Assessor-Collector,0887,234,95,329,492,66.87%,177,124,301
 County Tax Assessor-Collector,0888,817,289,1106,1867,59.24%,371,703,1074
 County Tax Assessor-Collector,0889,113,28,141,238,59.24%,46,90,136
@@ -1009,7 +1009,7 @@ County Tax Assessor-Collector,0979,0,0,0,0,0.00%,0,0,0
 County Tax Assessor-Collector,0980,686,333,1019,1412,72.17%,725,265,990
 County Tax Assessor-Collector,0981,12,2,14,31,45.16%,2,12,14
 County Tax Assessor-Collector,0982,1898,501,2399,2916,82.27%,1841,502,2343
-County Tax Assessor-Collector,0983,65,17,82,198,41.41,%,44,36,80
+County Tax Assessor-Collector,0983,65,17,82,198,41.41%,44,36,80
 County Tax Assessor-Collector,0984,76,57,133,341,39.00%,11,120,131
 County Tax Assessor-Collector,0985,222,56,278,355,78.31%,135,135,270
 County Tax Assessor-Collector,0986,153,78,231,537,43.02%,29,194,223
@@ -1040,4 +1040,4 @@ County Tax Assessor-Collector,1009,0,0,0,0,0.00%,0,0,0
 County Tax Assessor-Collector,1010,292,96,388,647,59.97%,78,299,377
 County Tax Assessor-Collector,1011,9,6,15,31,48.39%,11,4,15
 County Tax Assessor-Collector,1012,543,362,905,1633,55.42%,250,617,867
-County Tax Assessor-Collector,Totals:,981446,353327,1334773,2182980,640140,648243,1288383
+County Tax Assessor-Collector,Totals:,981446,353327,1334773,2182980,,640140,648243,1288383

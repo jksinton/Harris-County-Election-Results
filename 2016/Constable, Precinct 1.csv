@@ -192,7 +192,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Constable, Precinct 1",0868,736,495,1231,2446,50.33%,294,880,1174
 "Constable, Precinct 1",0870,0,2,2,0,0.00%,2,0,2
 "Constable, Precinct 1",0884,149,55,204,396,51.52%,28,171,199
-"Constable, Precinct 1",0886,495,152,647,906,71.41,%,309,290,599
+"Constable, Precinct 1",0886,495,152,647,906,71.41%,309,290,599
 "Constable, Precinct 1",0887,234,95,329,492,66.87%,154,142,296
 "Constable, Precinct 1",0890,445,98,543,1214,44.73%,201,302,503
 "Constable, Precinct 1",0895,41,7,252,669,834,80.22%,235,386,621
@@ -224,4 +224,4 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Constable, Precinct 1",1003,0,0,0,0,0.00%,0,0,0
 "Constable, Precinct 1",1004,349,114,453,691,67.00%,220,223,443
 "Constable, Precinct 1",1011,9,6,15,31,48.39%,9,6,15
-"Constable, Precinct 1",Totals;,160026,64106,224126,662009,76866,168646,212479
+"Constable, Precinct 1",Totals;,160026,64106,224126,662009,,76866,168646,212479

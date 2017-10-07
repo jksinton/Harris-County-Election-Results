@@ -244,7 +244,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "District Judge, 11th Judicial District",0237,739,312,1051,2146,48.97%,26,995,1021
 "District Judge, 11th Judicial District",0238,606,317,923,1948,47.38%,32,852,884
 Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Kevin Fulton,DEM Kristen Hawkins,Totals
-"District Judge, 11th Judicial District",0239,694,334,1028,1984,51.81,%,33,971,1004
+"District Judge, 11th Judicial District",0239,694,334,1028,1984,51.81%,33,971,1004
 "District Judge, 11th Judicial District",0240,1007,292,1299,2601,49.94%,34,1237,1271
 "District Judge, 11th Judicial District",0241,651,383,1034,2466,41.93%,324,666,990
 "District Judge, 11th Judicial District",0242,506,314,820,1744,47.02%,359,406,765
@@ -910,7 +910,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "District Judge, 11th Judicial District",0884,149,55,204,396,51.52%,29,170,199
 Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Kevin Fulton,DEM Kristen Hawkins,Totals
 "District Judge, 11th Judicial District",0885,1570,323,1893,2811,67.34%,1044,787,1831
-"District Judge, 11th Judicial District",0886,495,152,647,906,71.41,%,332,261,593
+"District Judge, 11th Judicial District",0886,495,152,647,906,71.41%,332,261,593
 "District Judge, 11th Judicial District",0887,234,95,329,492,66.87%,170,129,299
 "District Judge, 11th Judicial District",0888,817,289,1106,1867,59.24%,345,720,1065
 "District Judge, 11th Judicial District",0889,113,28,141,238,59.24%,39,93,132
@@ -1009,7 +1009,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "District Judge, 11th Judicial District",0980,686,333,1019,1412,72.17%,684,283,967
 "District Judge, 11th Judicial District",0981,12,2,14,31,45.16%,0,13,13
 "District Judge, 11th Judicial District",0982,1898,501,2399,2916,82.27%,1783,519,2302
-"District Judge, 11th Judicial District",0983,55,17,82,198,41.41,%,42,38,80
+"District Judge, 11th Judicial District",0983,55,17,82,198,41.41%,42,38,80
 "District Judge, 11th Judicial District",0984,75,57,133,341,39.00%,10,121,131
 "District Judge, 11th Judicial District",0985,222,56,278,355,78.31%,122,140,262
 "District Judge, 11th Judicial District",0986,153,78,231,537,43.02%,23,201,224
@@ -1040,4 +1040,4 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "District Judge, 11th Judicial District",1010,292,96,388,647,59.97%,69,304,373
 "District Judge, 11th Judicial District",1011,9,6,15,31,48.39%,9,6,15
 "District Judge, 11th Judicial District",1012,543,362,905,1633,55.42%,214,642,856
-"District Judge, 11th Judicial District",Totals;,981446,353327,1334773,2182980,605037,666492,1271529
+"District Judge, 11th Judicial District",Totals;,981446,353327,1334773,2182980,,605037,666492,1271529

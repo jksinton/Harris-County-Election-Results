@@ -244,7 +244,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, 14th Court of Appeals District, Place 2",0237,739,312,1051,2146,48.97%,20,1000,1020
 "Justice, 14th Court of Appeals District, Place 2",0238,606,317,923,1948,47.38%,29,856,885
 Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Kevin Jewell,DEM Candance White,Totals
-"Justice, 14th Court of Appeals District, Place 2",0239,694,334,1028,1984,51.81,%,37,968,1005
+"Justice, 14th Court of Appeals District, Place 2",0239,694,334,1028,1984,51.81%,37,968,1005
 "Justice, 14th Court of Appeals District, Place 2",0240,1007,292,1299,2601,49.94%,26,1244,1270
 "Justice, 14th Court of Appeals District, Place 2",0241,651,383,1034,2466,41.93%,318,672,990
 "Justice, 14th Court of Appeals District, Place 2",0242,506,314,820,1744,47.02%,351,415,766
@@ -1040,4 +1040,4 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, 14th Court of Appeals District, Place 2",1010,292,96,388,647,59.97%,70,303,373
 "Justice, 14th Court of Appeals District, Place 2",1011,9,6,15,31,48.39%,8,7,15
 "Justice, 14th Court of Appeals District, Place 2",1012,543,362,905,1633,55.42%,210,646,856
-"Justice, 14th Court of Appeals District, Place 2",Totals:,982016,353327,1335343,2182980,606215,666580,1272795
+"Justice, 14th Court of Appeals District, Place 2",Totals:,982016,353327,1335343,2182980,,606215,666580,1272795

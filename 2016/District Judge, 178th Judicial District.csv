@@ -244,7 +244,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "District Judge, 178th Judicial District",0237,739,312,1051,2146,48.97%,18,1001,1019
 "District Judge, 178th Judicial District",0238,606,317,923,1948,47.38%,30,859,889
 Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Phil Gommels,DEM Kelli Johnson,Totals
-"District Judge, 178th Judicial District",0239,694,334,1028,1984,51.81,%,33,973,1006
+"District Judge, 178th Judicial District",0239,694,334,1028,1984,51.81%,33,973,1006
 "District Judge, 178th Judicial District",0240,1007,292,1299,2601,49.94%,27,1237,1264
 "District Judge, 178th Judicial District",0241,651,383,1034,2466,41.93%,312,674,986
 "District Judge, 178th Judicial District",0242,506,314,820,1744,47.02%,341,420,761
@@ -910,7 +910,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "District Judge, 178th Judicial District",0884,149,55,204,396,51.52%,31,168,199
 Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Phil Gommels,DEM Kelli Johnson,Totals
 "District Judge, 178th Judicial District",0885,1570,323,1893,2811,67.34%,1023,802,1825
-"District Judge, 178th Judicial District",0886,495,152,647,906,71.41,%,321,274,595
+"District Judge, 178th Judicial District",0886,495,152,647,906,71.41%,321,274,595
 "District Judge, 178th Judicial District",0887,234,95,329,492,66.87%,161,134,295
 "District Judge, 178th Judicial District",0888,817,289,1106,1867,59.24%,336,726,1062
 "District Judge, 178th Judicial District",0889,113,28,141,238,59.24%,37,95,132
@@ -1009,7 +1009,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "District Judge, 178th Judicial District",0980,686,333,1019,1412,72.17%,673,288,961
 "District Judge, 178th Judicial District",0981,12,2,14,31,45.16%,1,12,13
 "District Judge, 178th Judicial District",0982,1898,501,2399,2916,82.27%,1751,549,2300
-"District Judge, 178th Judicial District",0983,65,17,82,198,41.41,%,42,38,80
+"District Judge, 178th Judicial District",0983,65,17,82,198,41.41%,42,38,80
 "District Judge, 178th Judicial District",0984,76,57,133,341,39.00%,10,121,131
 "District Judge, 178th Judicial District",0985,222,56,278,355,78.31%,121,143,264
 "District Judge, 178th Judicial District",0986,153,78,231,537,43.02%,23,200,223
@@ -1040,4 +1040,4 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "District Judge, 178th Judicial District",1010,292,96,388,647,59.97%,68,305,373
 "District Judge, 178th Judicial District",1011,9,6,15,31,48.39%,9,6,15
 "District Judge, 178th Judicial District",1012,543,362,905,1633,55.42%,207,647,854
-"District Judge, 178th Judicial District",Totals:,981446,353327,1334773,2182980,581206,685362,1266568
+"District Judge, 178th Judicial District",Totals:,981446,353327,1334773,2182980,,581206,685362,1266568

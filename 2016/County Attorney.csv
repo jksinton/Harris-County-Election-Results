@@ -244,7 +244,7 @@ County Attorney,0236,555,308,964,2104,45.82%,42,892,934
 County Attorney,0237,739,312,1051,2146,48.97%,24,998,1022
 County Attorney,0238,606,317,923,1948,47.38%,25,863,888
 Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Jim Leitner,DEM Vince Ryan,Totals
-County Attorney,0239,694,334,1028,1984,51.81,%,32,974,1006
+County Attorney,0239,694,334,1028,1984,51.81%,32,974,1006
 County Attorney,0240,1007,292,1299,2601,49.94%,26,1237,1263
 County Attorney,0241,651,383,1034,2466,41.93%,307,689,996
 County Attorney,0242,506,314,820,1744,47.02%,341,420,761
@@ -910,7 +910,7 @@ County Attorney,0883,2252,928,3180,5613,56.65%,518,2544,3062
 County Attorney,0884,149,55,204,396,51.52%,28,171,199
 Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Jim Leitner,DEM Vince Ryan,Totals
 County Attorney,0885,1570,323,1893,2811,67.34%,1027,798,1825
-County Attorney,0886,495,152,647,906,71.41,%,322,276,598
+County Attorney,0886,495,152,647,906,71.41%,322,276,598
 County Attorney,0887,234,95,329,492,66.87%,163,135,298
 County Attorney,0888,817,289,1106,1867,59.24%,341,719,1060
 County Attorney,0889,113,28,141,238,59.24%,37,97,134
@@ -1009,7 +1009,7 @@ County Attorney,0979,0,0,0,0,0.00%,0,0,0
 County Attorney,0980,686,333,1019,1412,72.17%,696,277,973
 County Attorney,0981,12,2,14,31,45.16%,1,12,13
 County Attorney,0982,1898,501,2399,2916,82.27%,1787,532,2319
-County Attorney,0983,65,17,82,198,41.41,%,43,37,80
+County Attorney,0983,65,17,82,198,41.41%,43,37,80
 County Attorney,0984,76,57,133,341,39.00%,10,122,132
 County Attorney,0985,222,56,278,355,78.31%,126,142,268
 County Attorney,0986,153,78,231,537,43.02%,21,203,224
@@ -1040,4 +1040,4 @@ County Attorney,1009,0,0,0,0,0.00%,0,0,0
 County Attorney,1010,292,96,388,647,59.97%,70,307,377
 County Attorney,1011,9,6,15,31,48.39%,9,6,15
 County Attorney,1012,543,362,905,1633,55.42%,208,647,855
-County Attorney,Totals:,981446,353327,1334773,2182980,590159,685075,1275234
+County Attorney,Totals:,981446,353327,1334773,2182980,,590159,685075,1275234

@@ -244,7 +244,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "District Judge, 339th Judicial District",0237,739,312,1051,2148,48.97%,22,997,1019
 "District Judge, 339th Judicial District",0238,808,317,923,1948,47.38%,28,880,888
 Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Mary McFaden,DEM Maria T. (Terri) Jackson,Totals
-"District Judge, 339th Judicial District",0239,694,334,1028,1984,51.81,%,34,973,1007
+"District Judge, 339th Judicial District",0239,694,334,1028,1984,51.81%,34,973,1007
 "District Judge, 339th Judicial District",0240,1007,292,1299,2601,49.94%,31,1235,1266
 "District Judge, 339th Judicial District",0241,651,383,1034,2466,41.93%,324,668,992
 "District Judge, 339th Judicial District",0242,506,314,820,1744,47.02%,348,415,763
@@ -910,7 +910,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "District Judge, 339th Judicial District",0884,149,55,204,396,51.52%,29,170,199
 Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Mary McFaden,DEM Maria T. (Terri) Jackson,Totals
 "District Judge, 339th Judicial District",0885,1570,323,1893,2811,67.34%,1044,783,1827
-"District Judge, 339th Judicial District",0886,495,152,647,906,71.41,%,333,258,591
+"District Judge, 339th Judicial District",0886,495,152,647,906,71.41%,333,258,591
 "District Judge, 339th Judicial District",0887,234,95,329,492,66.87%,168,128,296
 "District Judge, 339th Judicial District",0888,817,289,1106,1867,59.24%,350,712,1062
 "District Judge, 339th Judicial District",0889,113,28,141,238,59.24%,38,95,133
@@ -1009,7 +1009,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "District Judge, 339th Judicial District",0980,686,333,1019,1412,72.17%,704,259,963
 "District Judge, 339th Judicial District",0981,12,2,14,31,45.16%,1,12,13
 "District Judge, 339th Judicial District",0982,1898,501,2399,2916,82.27%,1771,528,2299
-"District Judge, 339th Judicial District",0983,55,17,82,198,41.41,%,43,37,80
+"District Judge, 339th Judicial District",0983,55,17,82,198,41.41%,43,37,80
 "District Judge, 339th Judicial District",0984,75,57,133,341,39.00%,10,121,131
 "District Judge, 339th Judicial District",0985,222,56,278,355,78.31%,122,142,264
 "District Judge, 339th Judicial District",0986,153,78,231,537,43.02%,23,200,223
@@ -1040,4 +1040,4 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "District Judge, 339th Judicial District",1010,292,96,388,647,59.97%,68,304,372
 "District Judge, 339th Judicial District",1011,9,6,15,31,48.39%,10,5,15
 "District Judge, 339th Judicial District",1012,543,362,905,1633,55.42%,211,641,852
-"District Judge, 339th Judicial District",Totals;,981446,353327,1334773,2182980,601472,665081,1266553
+"District Judge, 339th Judicial District",Totals;,981446,353327,1334773,2182980,,601472,665081,1266553

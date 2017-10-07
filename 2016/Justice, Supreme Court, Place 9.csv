@@ -1009,7 +1009,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 9",0980,686,333,1019,1412,72.17%,695,245,31,9,980
 "Justice, Supreme Court, Place 9",0981,12,2,14,31,45.16%,1,12,0,0,13
 "Justice, Supreme Court, Place 9",0982,1900,501,2401,2916,82.34%,1747,498,84,15,2344
-"Justice, Supreme Court, Place 9",0983,55,17,82,198,41.41,%,38,34,6,2,80
+"Justice, Supreme Court, Place 9",0983,55,17,82,198,41.41%,38,34,6,2,80
 "Justice, Supreme Court, Place 9",0984,76,57,133,341,39.00%,12,111,4,3,130
 "Justice, Supreme Court, Place 9",0985,222,56,278,355,78.31%,127,135,5,5,272
 "Justice, Supreme Court, Place 9",0986,154,78,232,537,43.20%,27,197,1,3,228
@@ -1040,4 +1040,4 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 9",1010,293,96,389,647,60.12%,77,288,7,4,376
 "Justice, Supreme Court, Place 9",1011,9,6,15,31,48.39%,10,5,0,0,15
 "Justice, Supreme Court, Place 9",1012,545,362,907,1633,55.54%,231,613,17,11,872
-"Justice, Supreme Court, Place 9",Totals;,983140,353327,1336467,2182980,616645,623055,35193,15670,1290563
+"Justice, Supreme Court, Place 9",Totals;,983140,353327,1336467,2182980,,616645,623055,35193,15670,1290563
