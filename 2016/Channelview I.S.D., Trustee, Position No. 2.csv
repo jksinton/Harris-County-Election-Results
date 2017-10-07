@@ -1,5 +1,4 @@
 Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,Steve Dennis,Totals
-<<<<<<< HEAD
 "Channelview I.S.D., Trustee, Position No. 2",0141,217,153,370,904,40.93%,201,201
 "Channelview I.S.D., Trustee, Position No. 2",0220,726,296,1022,2149,47.56%,619,619
 "Channelview I.S.D., Trustee, Position No. 2",0381,1185,432,1617,3141,51.48%,896,896
@@ -9,7 +8,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Channelview I.S.D., Trustee, Position No. 2",0740,3,2,5,16,31.25%,1,1
 "Channelview I.S.D., Trustee, Position No. 2",0741,923,262,1185,1895,62.53%,618,618
 "Channelview I.S.D., Trustee, Position No. 2",Totals:,5681,2037,7718,14470,,4200,4200
-=======
 "Channelview |.S.D., Trustee, Position No. 2",0141,217,153,370,904,40.93%,201,201
 "Channelview |.S.D., Trustee, Position No. 2",0220,726,296,1022,2149,47.56%,619,619
 "Channelview |.S.D., Trustee, Position No. 2",0381,1185,432,1617,3141,51.48%,896,896
@@ -19,4 +17,3 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Channelview |.S.D., Trustee, Position No. 2",0740,3,2,5,16,31.25%,1,1
 "Channelview |.S.D., Trustee, Position No. 2",0741,923,262,1185,1895,62.53%,618,618
 "Channelview |.S.D., Trustee, Position No. 2",Totals:,5681,2037,7718,14470,,4200,4200
->>>>>>> b946c76d190e750c8188f56accf92691ceb21fe2
