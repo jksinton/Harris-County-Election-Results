@@ -33,7 +33,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "County Commissioner, Precinct 3",0213,1603,939,2542,3308,76.84%,2052,370,2422
 "County Commissioner, Precinct 3",0214,798,544,1342,1795,74.76%,857,386,1243
 "County Commissioner, Precinct 3",0215,844,786,1630,2168,75.18%,1026,492,1518
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Steve Radack,DEM Glorice McPherson,Totals
 "County Commissioner, Precinct 3",0234,2088,885,2973,3854,77.14%,2335,484,2799
 "County Commissioner, Precinct 3",0258,1059,788,1825,3228,58.57%,787,943,1710
 "County Commissioner, Precinct 3",0258,1577,888,2485,3288,75.02%,1872,483,2335
@@ -68,7 +67,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "County Commissioner, Precinct 3",0345,428,357,785,1708,45.98%,171,571,742
 "County Commissioner, Precinct 3",0358,1382,818,2000,2838,70.52%,1195,710,1905
 "County Commissioner, Precinct 3",0380,989,515,1484,2190,87.78%,830,524,1354
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Steve Radack,DEM Glorice McPherson,Totals
 "County Commissioner, Precinct 3",0362,2131,1200,3331,4952,67.27%,2466,739,3205
 "County Commissioner, Precinct 3",0370,3143,1178,4321,5781,74.74%,3283,895,4178
 "County Commissioner, Precinct 3",0385,1099,621,1720,2175,79.08%,1350,282,1632
@@ -103,7 +101,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "County Commissioner, Precinct 3",0487,1005,612,1617,3318,48.73%,478,1008,1486
 "County Commissioner, Precinct 3",0488,580,440,1020,1713,59.54%,350,600,950
 "County Commissioner, Precinct 3",0490,876,439,1315,1944,67.64%,508,738,1246
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Steve Radack,DEM Glorice McPherson,Totals
 "County Commissioner, Precinct 3",0491,667,489,1156,1782,64.87%,685,402,1087
 "County Commissioner, Precinct 3",0492,1069,504,1573,2351,66.91%,880,621,1501
 "County Commissioner, Precinct 3",0493,858,400,1258,1804,69.73%,830,370,1200
@@ -138,7 +135,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "County Commissioner, Precinct 3",0603,1437,1163,2600,3917,66.38%,1587,946,2533
 "County Commissioner, Precinct 3",0616,1352,970,2322,3378,68.74%,1630,596,2226
 "County Commissioner, Precinct 3",0618,1920,1021,2941,5344,55.03%,1300,1533,2833
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Steve Radack,DEM Glorice McPherson,Totals
 "County Commissioner, Precinct 3",0619,2133,857,2990,4266,70.09%,2250,642,2892
 "County Commissioner, Precinct 3",0620,2382,856,3238,5271,61.43%,1574,1490,3064
 "County Commissioner, Precinct 3",0621,397,203,600,1173,51.15%,306,270,576
@@ -173,7 +169,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "County Commissioner, Precinct 3",0734,3209,1114,4323,5952,72.63%,2920,1270,4190
 "County Commissioner, Precinct 3",0751,1664,1254,2918,4451,65.56%,1974,837,2811
 "County Commissioner, Precinct 3",0761,917,219,1136,1464,77.60%,878,214,1092
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Steve Radack,DEM Glorice McPherson,Totals
 "County Commissioner, Precinct 3",0765,1390,815,2205,3967,55.58%,806,1309,2115
 "County Commissioner, Precinct 3",0772,2927,1002,3929,5617,69.95%,2993,813,3806
 "County Commissioner, Precinct 3",0773,892,550,1442,2648,54.46%,374,996,1370
@@ -200,15 +195,14 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "County Commissioner, Precinct 3",0917,280,137,417,481,86.69%,315,82,397
 "County Commissioner, Precinct 3",0918,489,135,624,883,70.67%,502,94,596
 "County Commissioner, Precinct 3",0919,0,3,3,3,100.00%,1,2,3
-"County Commissioner, Precinct 3",0920,e,0,6,13,46.15%,6,0,6
+"County Commissioner, Precinct 3",09206,0,6,13,46.15%,6,0,6
 "County Commissioner, Precinct 3",0921,71,9,80,87,91.95%,66,14,80
 "County Commissioner, Precinct 3",0923,663,87,750,826,90.80%,577,149,726
 "County Commissioner, Precinct 3",0938,73,14,87,256,33.98%,31,54,85
 "County Commissioner, Precinct 3",0941,13,9,22,25,88.00%,21,0,21
 "County Commissioner, Precinct 3",0942,68,24,92,159,57.86%,75,13,88
 "County Commissioner, Precinct 3",0943,296,63,359,536,66.98%,265,72,337
-"County Commissioner, Precinct 3",0944,30,e,36,39,92.31%,28,5,33
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Steve Radack,DEM Glorice McPherson,Totals
+"County Commissioner, Precinct 3",0944,306,36,39,92.31%,28,5,33
 "County Commissioner, Precinct 3",0951,79,44,123,218,56.42%,26,94,120
 "County Commissioner, Precinct 3",0952,24,1e,40,70,57.14%,22,14,36
 "County Commissioner, Precinct 3",0971,27,21,48,129,37.21%,1,47,48

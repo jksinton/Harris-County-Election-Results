@@ -33,7 +33,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0032,799,558,1355,2171,82.41%,888,279,184,1129
 "Justice, Supreme Court, Place 4",0033,1488,843,2329,3540,85.79%,970,478,433,1881
 "Justice, Supreme Court, Place 4",0034,1017,749,1788,2878,85.99%,525,412,442,1379
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0035,4,0,4,12,33.33%,1,1,0,2
 "Justice, Supreme Court, Place 4",0036,993,479,1472,2868,51.32%,454,223,138,815
 "Justice, Supreme Court, Place 4",0037,803,479,1282,1885,68.01%,446,252,306,1004
@@ -68,7 +67,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0066,172,279,451,1090,41.38%,86,57,43,186
 "Justice, Supreme Court, Place 4",0067,666,574,1240,2742,45.22%,342,206,112,660
 "Justice, Supreme Court, Place 4",0068,1199,486,1685,2782,60.57%,71,247,156,474
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0069,218,284,502,1303,38.53%,111,86,44,241
 "Justice, Supreme Court, Place 4",0070,1640,726,2366,3142,75.30%,1503,308,199,2010
 "Justice, Supreme Court, Place 4",0071,1430,948,2378,3662,64.94%,1280,408,238,1926
@@ -103,7 +101,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0100,427,324,751,1754,42.82%,358,101,31,490
 "Justice, Supreme Court, Place 4",0101,204,186,390,941,41.45%,103,56,30,189
 "Justice, Supreme Court, Place 4",0102,493,268,761,1910,39.84%,216,93,43,352
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0103,1915,1065,2980,4751,62.72%,1640,307,131,2078
 "Justice, Supreme Court, Place 4",0104,993,238,1231,1847,66.65%,51,143,72,266
 "Justice, Supreme Court, Place 4",0105,462,453,915,2153,42.50%,314,140,72,526
@@ -138,7 +135,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0134,420,392,812,1444,56.23%,381,122,80,583
 "Justice, Supreme Court, Place 4",0135,1431,634,2065,2750,75.09%,1356,234,160,1750
 "Justice, Supreme Court, Place 4",0136,985,451,1436,2111,68.02%,111,282,174,567
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0137,305,193,498,740,67.30%,268,72,70,410
 "Justice, Supreme Court, Place 4",0138,661,259,920,1749,52.60%,42,104,46,192
 "Justice, Supreme Court, Place 4",0139,1297,747,2044,2746,74.44%,1050,299,270,1619
@@ -153,7 +149,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0148,911,924,1835,2467,74.38%,847,247,338,1432
 "Justice, Supreme Court, Place 4",0149,2866,1322,4188,6103,68.62%,1987,586,307,2880
 "Justice, Supreme Court, Place 4",0150,539,207,746,1212,61.55%,31,114,48,193
-"Justice, Supreme Court, Place 4",0151,31,e,148,464,846,54.85%,38,57,37,132
+"Justice, Supreme Court, Place 4",0151,316,148,464,846,54.85%,38,57,37,132
 "Justice, Supreme Court, Place 4",0152,483,602,1085,2701,40.17%,299,159,107,565
 "Justice, Supreme Court, Place 4",0153,328,437,765,1755,43.59%,249,112,60,421
 "Justice, Supreme Court, Place 4",0154,593,360,953,2133,44.68%,279,143,90,512
@@ -173,7 +169,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0168,189,126,315,519,60.69%,16,26,13,55
 "Justice, Supreme Court, Place 4",0169,1060,433,1493,2531,58.99%,58,181,96,335
 "Justice, Supreme Court, Place 4",0170,481,353,834,1887,44.20%,437,91,43,571
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0171,514,294,808,1613,50.09%,42,100,46,188
 "Justice, Supreme Court, Place 4",0172,161,147,308,600,51.33%,116,44,31,191
 "Justice, Supreme Court, Place 4",0173,1799,619,2418,3105,77.87%,1880,145,101,2126
@@ -208,7 +203,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0202,488,332,820,1479,55.44%,35,98,57,190
 "Justice, Supreme Court, Place 4",0203,266,156,422,900,46.89%,106,69,31,206
 "Justice, Supreme Court, Place 4",0204,1496,914,2410,3462,69.61%,1457,310,242,2009
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0205,856,201,1057,1667,63.41%,47,128,60,235
 "Justice, Supreme Court, Place 4",0206,652,659,1311,2662,49.25%,450,253,209,912
 "Justice, Supreme Court, Place 4",0207,410,310,720,1144,62.94%,292,124,85,501
@@ -243,7 +237,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0236,779,342,1121,2144,52.29%,67,134,57,258
 "Justice, Supreme Court, Place 4",0237,793,441,1234,2181,56.58%,42,162,72,276
 "Justice, Supreme Court, Place 4",0238,641,422,1063,1901,55.92%,36,155,77,268
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0239,765,357,1122,1997,56.18%,73,172,91,336
 "Justice, Supreme Court, Place 4",0240,1158,402,1560,2688,58.04%,63,245,138,446
 "Justice, Supreme Court, Place 4",0241,494,479,973,2296,42.38%,436,95,51,582
@@ -278,7 +271,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0270,1403,870,2273,3517,64.63%,1336,269,200,1805
 "Justice, Supreme Court, Place 4",0271,1303,371,1674,2469,67.80%,75,245,156,476
 "Justice, Supreme Court, Place 4",0272,614,484,1098,2112,51.99%,438,240,117,795
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0273,1141,634,1775,2426,73.17%,1427,114,69,1610
 "Justice, Supreme Court, Place 4",0274,1054,364,1418,2063,68.73%,967,154,110,1231
 "Justice, Supreme Court, Place 4",0275,570,410,980,1730,56.65%,196,142,96,434
@@ -313,7 +305,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0304,970,648,1618,2266,71.40%,969,142,166,1277
 "Justice, Supreme Court, Place 4",0305,1321,858,2179,3621,60.18%,909,375,172,1456
 "Justice, Supreme Court, Place 4",0306,1014,323,1337,1847,72.39%,1000,93,72,1165
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0307,1242,876,2118,2931,72.26%,1462,194,133,1789
 "Justice, Supreme Court, Place 4",0308,444,238,682,1266,53.87%,220,99,56,375
 "Justice, Supreme Court, Place 4",0309,1386,612,1998,2529,79.00%,1626,115,61,1802
@@ -348,7 +339,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0338,1543,824,2367,4673,50.65%,760,352,201,1313
 "Justice, Supreme Court, Place 4",0339,369,373,742,1716,43.24%,194,110,71,375
 "Justice, Supreme Court, Place 4",0340,1779,833,2612,3717,70.27%,1941,203,146,2290
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0341,246,316,562,1248,45.03%,180,76,52,308
 "Justice, Supreme Court, Place 4",0342,2031,1113,3144,5718,54.98%,581,525,268,1374
 "Justice, Supreme Court, Place 4",0343,436,483,919,1904,48.27%,296,119,85,500
@@ -383,7 +373,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0372,499,231,730,1215,60.08%,118,155,79,352
 "Justice, Supreme Court, Place 4",0373,61,16,77,159,48.43%,6,3,5,14
 "Justice, Supreme Court, Place 4",0374,139,187,326,748,43.58%,122,46,13,181
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0375,578,524,1102,2607,42.27%,522,99,76,697
 "Justice, Supreme Court, Place 4",0376,530,334,964,1916,50.31%,433,106,61,600
 "Justice, Supreme Court, Place 4",0377,1055,707,1762,2871,61.37%,1295,125,75,1495
@@ -418,7 +407,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0406,282,72,354,610,58.03%,15,42,18,75
 "Justice, Supreme Court, Place 4",0407,1320,1000,2320,3652,63.53%,1508,252,156,1916
 "Justice, Supreme Court, Place 4",0408,154,179,333,933,35.69%,149,35,23,207
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0409,277,289,566,1371,41.28%,212,72,42,326
 "Justice, Supreme Court, Place 4",0410,337,102,439,849,51.71%,101,59,30,190
 "Justice, Supreme Court, Place 4",0411,542,462,1004,2302,43.61%,350,116,65,531
@@ -453,7 +441,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0440,1326,876,2202,2867,76.81%,1748,125,80,1953
 "Justice, Supreme Court, Place 4",0441,699,513,1212,1616,75.00%,904,102,44,1050
 "Justice, Supreme Court, Place 4",0442,1366,513,1879,2504,75.04%,1540,101,76,1717
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0443,335,148,483,805,79.83%,338,57,22,417
 "Justice, Supreme Court, Place 4",0444,1258,731,1989,3172,82.70%,1239,240,132,1811
 "Justice, Supreme Court, Place 4",0445,881,443,1304,1938,87.29%,834,132,79,1045
@@ -488,7 +475,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0474,1149,788,1915,3008,83.71%,1333,184,100,1817
 "Justice, Supreme Court, Place 4",0475,485,473,958,1851,58.03%,451,135,72,858
 "Justice, Supreme Court, Place 4",0478,809,858,1487,2412,80.82%,892,150,85,1127
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0477,1442,742,2184,3195,68.36%,1664,166,94,1924
 "Justice, Supreme Court, Place 4",0478,1963,898,2861,4150,68.94%,1923,296,172,2391
 "Justice, Supreme Court, Place 4",0479,1302,588,1890,2648,71.37%,1397,175,92,1664
@@ -523,7 +509,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0508,946,760,1706,3248,52.52%,633,233,123,989
 "Justice, Supreme Court, Place 4",0509,1341,864,2205,3536,62.36%,1561,190,107,1858
 "Justice, Supreme Court, Place 4",0510,1495,582,2177,3511,62.01%,1042,326,211,1579
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0511,0,8,8,0,0.00%,1,2,0,3
 "Justice, Supreme Court, Place 4",0512,1588,1127,2895,4582,58.82%,1310,397,177,1884
 "Justice, Supreme Court, Place 4",0513,1808,507,2113,2752,78.78%,1808,175,73,1858
@@ -558,7 +543,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0542,997,501,1498,2525,59.33%,147,285,148,580
 "Justice, Supreme Court, Place 4",0543,287,378,885,1528,43.52%,247,108,84,417
 "Justice, Supreme Court, Place 4",0544,93,53,148,318,45.91%,18,20,11,49
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0545,1314,857,2171,3339,65.02%,1132,282,104,1518
 "Justice, Supreme Court, Place 4",0546,4,4,8,30,26.67%,2,3,0,5
 "Justice, Supreme Court, Place 4",0547,877,647,1524,2408,63.29%,1048,152,85,1285
@@ -579,7 +563,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0562,201,146,347,645,53.80%,44,37,22,103
 "Justice, Supreme Court, Place 4",0563,1700,415,2115,2969,71.24%,1645,135,88,1868
 "Justice, Supreme Court, Place 4",0564,1159,713,1872,3096,60.47%,561,458,277,1296
-"Justice, Supreme Court, Place 4",0565,31,e,194,510,1373,37.14%,105,66,59,230
+"Justice, Supreme Court, Place 4",0565,316,194,510,1373,37.14%,105,66,59,230
 "Justice, Supreme Court, Place 4",0566,1126,478,1604,2950,54.37%,483,334,219,1036
 "Justice, Supreme Court, Place 4",0567,673,394,1067,2198,48.54%,317,153,90,560
 "Justice, Supreme Court, Place 4",0568,1630,837,2467,3487,70.75%,1633,244,144,2021
@@ -593,7 +577,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0576,1051,552,1603,2671,60.01%,78,211,101,390
 "Justice, Supreme Court, Place 4",0577,231,113,344,573,60.03%,204,48,31,283
 "Justice, Supreme Court, Place 4",0578,745,553,1298,1689,76.85%,828,124,112,1064
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0579,489,351,840,1806,46.51%,237,128,67,432
 "Justice, Supreme Court, Place 4",0580,430,146,576,1027,56.09%,23,83,40,146
 "Justice, Supreme Court, Place 4",0581,510,162,672,1041,64.55%,31,83,52,166
@@ -628,7 +611,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0610,403,398,801,1825,43.89%,401,104,56,561
 "Justice, Supreme Court, Place 4",0611,1122,301,1423,2450,58.08%,61,136,83,280
 "Justice, Supreme Court, Place 4",0612,1702,579,2281,3272,69.71%,1744,171,138,2053
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0613,495,309,804,1450,55.45%,150,132,46,328
 "Justice, Supreme Court, Place 4",0614,1632,812,2444,3932,62.16%,908,319,161,1388
 "Justice, Supreme Court, Place 4",0615,931,404,1335,1926,69.31%,799,147,70,1016
@@ -663,7 +645,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0644,2125,1204,3329,5261,63.28%,2149,369,202,2720
 "Justice, Supreme Court, Place 4",0645,1648,895,2543,4035,63.02%,1255,414,231,1900
 "Justice, Supreme Court, Place 4",0646,708,456,1164,2163,53.81%,401,177,93,671
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0647,1771,1020,2791,5593,49.90%,794,413,197,1404
 "Justice, Supreme Court, Place 4",0648,1591,668,2259,3197,70.66%,1613,210,102,1925
 "Justice, Supreme Court, Place 4",0649,1390,854,2244,4426,50.70%,713,364,201,1278
@@ -698,7 +679,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0678,297,164,461,756,60.98%,308,52,24,384
 "Justice, Supreme Court, Place 4",0679,1469,661,2130,3331,63.94%,1596,150,53,1799
 "Justice, Supreme Court, Place 4",0680,57,22,79,181,43.65%,38,17,10,65
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0681,1,0,1,5,20.00%,0,0,0,0
 "Justice, Supreme Court, Place 4",0682,1674,912,2586,4134,62.55%,1870,187,93,2150
 "Justice, Supreme Court, Place 4",0683,48,50,98,261,37.55%,29,13,11,53
@@ -733,7 +713,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0712,1205,858,2063,3348,61.62%,942,346,151,1439
 "Justice, Supreme Court, Place 4",0713,666,436,1102,1827,60.32%,607,140,58,805
 "Justice, Supreme Court, Place 4",0714,77,3,80,304,26.32%,54,6,2,62
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0715,405,326,731,1380,52.97%,377,105,56,538
 "Justice, Supreme Court, Place 4",0716,977,522,1599,2670,59.89%,1129,106,72,1307
 "Justice, Supreme Court, Place 4",0717,826,362,1188,1927,61.65%,196,155,94,445
@@ -768,7 +747,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0746,230,151,381,707,53.89%,193,40,35,268
 "Justice, Supreme Court, Place 4",0747,1200,873,2073,3490,59.40%,1032,261,156,1449
 "Justice, Supreme Court, Place 4",0748,421,307,728,1319,55.19%,338,125,75,538
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0749,99,57,156,359,43.45%,31,18,17,66
 "Justice, Supreme Court, Place 4",0750,264,147,411,720,57.08%,231,61,28,320
 "Justice, Supreme Court, Place 4",0751,1668,1254,2922,4451,65.65%,1960,289,150,2399
@@ -803,7 +781,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0780,136,114,250,579,43.18%,125,25,14,164
 "Justice, Supreme Court, Place 4",0781,1152,655,1807,3716,48.63%,769,225,131,1125
 "Justice, Supreme Court, Place 4",0782,851,532,1383,2188,63.21%,866,145,96,1107
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0783,103,43,146,265,55.09%,81,14,10,105
 "Justice, Supreme Court, Place 4",0784,430,156,586,1071,54.72%,22,61,27,110
 "Justice, Supreme Court, Place 4",0785,66,55,121,310,39.03%,72,13,4,89
@@ -830,7 +807,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0806,0,0,0,0,0.00%,0,0,0,0
 "Justice, Supreme Court, Place 4",0807,653,402,1055,2001,52.72%,213,270,128,611
 "Justice, Supreme Court, Place 4",0808,42,26,68,84,80.95%,27,15,10,52
-"Justice, Supreme Court, Place 4",0809,21,e,27,86,31.40%,10,2,1,13
+"Justice, Supreme Court, Place 4",0809,216,27,86,31.40%,10,2,1,13
 "Justice, Supreme Court, Place 4",0810,30,48,78,215,36.28%,22,9,5,36
 "Justice, Supreme Court, Place 4",0811,39,106,145,271,53.51%,37,29,15,81
 "Justice, Supreme Court, Place 4",0812,0,0,0,0,0.00%,0,0,0,0
@@ -838,7 +815,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0814,1774,955,2729,4503,60.60%,732,498,251,1481
 "Justice, Supreme Court, Place 4",0815,0,0,0,0,0.00%,0,0,0,0
 "Justice, Supreme Court, Place 4",0816,20,13,33,76,43.42%,7,8,6,21
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0817,0,0,0,0,0.00%,0,0,0,0
 "Justice, Supreme Court, Place 4",0818,134,101,235,527,44.59%,60,33,22,115
 "Justice, Supreme Court, Place 4",0819,97,45,142,238,59.68%,89,11,16,118
@@ -873,7 +849,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0848,782,431,1213,1873,84.78%,423,176,115,714
 "Justice, Supreme Court, Place 4",0849,553,514,1067,2073,51.47%,408,147,104,659
 "Justice, Supreme Court, Place 4",0850,87,38,125,205,80.98%,59,11,10,80
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0851,2194,818,3010,4317,89.72%,1980,278,180,2418
 "Justice, Supreme Court, Place 4",0852,0,4,4,2,200.00%,0,0,1,1
 "Justice, Supreme Court, Place 4",0853,1414,805,2019,2773,72.81%,1585,148,81,1792
@@ -908,7 +883,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0882,941,457,1398,2328,80.05%,810,182,99,1091
 "Justice, Supreme Court, Place 4",0883,1920,1042,2982,4851,83.89%,873,480,231,1384
 "Justice, Supreme Court, Place 4",0884,119,37,158,330,47.27%,25,15,8,48
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0885,1222,541,1763,2466,71.49%,1099,182,85,1366
 "Justice, Supreme Court, Place 4",0886,301,154,455,713,63.81%,242,81,41,364
 "Justice, Supreme Court, Place 4",0887,142,83,225,313,71.88%,125,47,10,182
@@ -943,7 +917,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0916,505,182,787,1045,75.31%,644,43,18,705
 "Justice, Supreme Court, Place 4",0917,282,137,419,481,87.11%,297,48,25,370
 "Justice, Supreme Court, Place 4",0918,489,135,624,883,70.67%,488,35,35,558
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0919,0,3,3,3,100.00%,1,2,0,3
 "Justice, Supreme Court, Place 4",0920,6,0,6,13,46.15%,6,0,0,6
 "Justice, Supreme Court, Place 4",0921,71,9,80,87,91.95%,63,6,7,76
@@ -978,7 +951,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0950,0,0,0,0,0.00%,0,0,0,0
 "Justice, Supreme Court, Place 4",0951,79,44,123,218,56.42%,33,27,14,74
 "Justice, Supreme Court, Place 4",0952,24,16,40,70,57.14%,24,5,5,34
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0953,59,52,111,420,26.43%,10,26,11,47
 "Justice, Supreme Court, Place 4",0954,0,0,0,0,0.00%,0,0,0,0
 "Justice, Supreme Court, Place 4",0955,5,20,25,18,138.89%,15,2,3,20
@@ -1005,7 +977,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0976,159,131,290,684,42.40%,182,27,11,220
 "Justice, Supreme Court, Place 4",0977,105,83,188,535,35.14%,76,20,7,103
 "Justice, Supreme Court, Place 4",0978,201,102,303,506,59.88%,64,59,25,148
-"Justice, Supreme Court, Place 4",0979,5,e,11,26,42.31%,11,0,0,11
+"Justice, Supreme Court, Place 4",0979,56,11,26,42.31%,11,0,0,11
 "Justice, Supreme Court, Place 4",0980,596,356,952,1323,71.96%,721,77,32,830
 "Justice, Supreme Court, Place 4",0981,0,0,0,0,0.00%,0,0,0,0
 "Justice, Supreme Court, Place 4",0982,534,218,752,1021,73.65%,587,52,24,663
@@ -1013,7 +985,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",0984,43,49,92,198,46.46%,7,23,12,42
 "Justice, Supreme Court, Place 4",0985,172,67,239,336,71.13%,135,29,24,188
 "Justice, Supreme Court, Place 4",0986,129,86,215,404,53.22%,25,44,18,87
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",0987,465,191,656,1138,57.64%,74,81,44,199
 "Justice, Supreme Court, Place 4",0988,44,21,65,111,58.56%,55,2,1,58
 "Justice, Supreme Court, Place 4",0989,18,8,26,36,72.22%,11,5,1,17
@@ -1048,7 +1019,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",1018,209,92,301,468,64.32%,148,35,19,202
 "Justice, Supreme Court, Place 4",1019,427,4,431,1518,28.39%,25,84,39,148
 "Justice, Supreme Court, Place 4",1020,0,0,0,1,0.00%,0,0,0,0
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",1021,1,0,1,2,50.00%,0,0,0,0
 "Justice, Supreme Court, Place 4",1022,190,30,220,426,51.64%,176,12,8,196
 "Justice, Supreme Court, Place 4",1023,898,401,1299,1964,66.14%,887,134,71,1092
@@ -1083,7 +1053,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice, Supreme Court, Place 4",1052,0,2,2,0,0.00%,1,0,0,1
 "Justice, Supreme Court, Place 4",1053,0,0,0,0,0.00%,0,0,0,0
 "Justice, Supreme Court, Place 4",1054,0,0,0,1,0.00%,0,0,0,0
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP John Devine,LIB Tom Oxford,GRN Charles E. Waterbury,Totals
 "Justice, Supreme Court, Place 4",1055,0,0,0,0,0.00%,0,0,0,0
 "Justice, Supreme Court, Place 4",1056,4,0,4,6,66.67%,1,0,1,2
 "Justice, Supreme Court, Place 4",1057,34,7,41,115,35.65%,3,5,4,12

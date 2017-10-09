@@ -33,7 +33,6 @@ United States Senator,0031,918,528,1442,2518,57.27%,32,1384,9,9,1414
 United States Senator,0032,804,558,1380,2171,82.84%,857,802,47,18,1322
 United States Senator,0033,1498,843,2339,3540,88.07%,921,1214,90,50,2275
 United States Senator,0034,1029,749,1778,2878,88.44%,487,1148,87,48,1748
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0035,4,0,4,12,33.33%,1,3,0,0,4
 United States Senator,0038,995,479,1474,2888,51.39%,405,989,15,13,1422
 United States Senator,0037,809,479,1288,1885,88.33%,432,789,34,25,1280
@@ -68,7 +67,6 @@ United States Senator,0085,404,532,938,2178,42.98%,219,843,17,9,888
 United States Senator,0088,172,279,451,1090,41.38%,84,331,5,3,423
 United States Senator,0087,888,574,1240,2742,45.22%,328,809,14,22,1173
 United States Senator,0088,1200,488,1888,2782,80.80%,33,1800,5,9,1847
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0069,218,284,502,1303,38.53%,117,347,5,1,470
 United States Senator,0070,1645,726,2371,3142,75.46%,1421,829,54,20,2324
 United States Senator,0071,1434,948,2382,3662,65.05%,1218,1013,80,24,2335
@@ -103,7 +101,6 @@ United States Senator,0099,568,311,879,2040,43.09%,408,431,9,8,856
 United States Senator,0100,427,324,751,1754,42.82%,345,356,18,8,727
 United States Senator,0101,204,186,390,941,41.45%,86,281,9,2,378
 United States Senator,0102,493,268,761,1910,39.84%,199,523,10,5,737
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0103,1915,1065,2980,4751,62.72%,1600,1267,23,17,2907
 United States Senator,0104,993,238,1231,1847,66.65%,30,1164,10,2,1206
 United States Senator,0105,462,453,915,2153,42.50%,264,590,8,9,871
@@ -138,7 +135,6 @@ United States Senator,0133,1091,940,2031,2605,77.97%,1187,735,39,26,1987
 United States Senator,0134,420,392,812,1444,56.23%,383,383,14,3,783
 United States Senator,0135,1438,634,2072,2750,75.35%,1299,667,41,15,2022
 United States Senator,0136,986,451,1437,2111,68.07%,61,1304,19,13,1397
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0137,305,193,498,740,87.30%,238,222,12,18,488
 United States Senator,0138,881,259,920,1749,52.80%,29,881,8,4,900
 United States Senator,0139,1307,747,2054,2748,74.80%,992,931,47,27,1997
@@ -153,7 +149,7 @@ United States Senator,0147,1259,485,1744,2813,82.00%,218,1478,13,9,1718
 United States Senator,0148,917,924,1841,2487,74.83%,741,1021,30,21,1813
 United States Senator,0149,2888,1322,4190,8103,88.85%,1859,2151,74,28,4112
 United States Senator,0150,539,207,748,1212,81.55%,22,899,2,5,728
-United States Senator,0151,31,e,148,484,848,54.85%,28,411,3,3,443
+United States Senator,0151,316,148,484,848,54.85%,28,411,3,3,443
 United States Senator,0152,484,802,1088,2701,40.21%,285,752,18,13,1048
 United States Senator,0153,328,437,785,1755,43.59%,218,491,9,9,727
 United States Senator,0154,593,380,953,2133,44.88%,273,597,13,8,891
@@ -173,7 +169,6 @@ United States Senator,0187,5,2,7,23,30.43%,0,7,0,0,7
 United States Senator,0188,189,128,315,519,80.89%,10,292,2,0,304
 United States Senator,0189,1080,433,1493,2531,58.99%,27,1424,8,7,1484
 United States Senator,0170,481,353,834,1887,44.20%,411,389,13,7,800
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0171,514,294,808,1613,50.09%,38,742,2,1,783
 United States Senator,0172,162,147,309,600,51.50%,108,175,5,3,291
 United States Senator,0173,1801,619,2420,3105,77.94%,1855,477,28,18,2378
@@ -208,7 +203,6 @@ United States Senator,0201,229,125,354,728,48.63%,13,324,0,7,344
 United States Senator,0202,488,332,820,1479,55.44%,23,757,1,5,786
 United States Senator,0203,266,156,422,900,46.89%,104,294,4,2,404
 United States Senator,0204,1505,914,2419,3462,69.87%,1393,882,56,32,2363
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0205,656,201,1057,1667,63.41%,24,1004,3,3,1034
 United States Senator,0206,652,659,1311,2662,49.25%,430,790,30,22,1272
 United States Senator,0207,410,310,720,1144,62.94%,274,404,15,9,702
@@ -243,7 +237,6 @@ United States Senator,0235,466,242,706,1305,54.25%,30,651,4,4,669
 United States Senator,0236,779,342,1121,2144,52.29%,39,1035,4,3,1061
 United States Senator,0237,794,441,1235,2161,56.63%,29,1174,0,6,1209
 United States Senator,0236,641,422,1063,1901,55.92%,24,966,10,6,1030
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0239,766,357,1123,1997,56.23%,33,1046,2,10,1091
 United States Senator,0240,1160,402,1562,2688,58.11%,23,1478,11,8,1520
 United States Senator,0241,494,479,973,2296,42.38%,409,506,9,10,934
@@ -278,7 +271,6 @@ United States Senator,0269,1148,444,1592,1981,80.36%,1243,296,19,7,1565
 United States Senator,0270,1403,870,2273,3517,64.63%,1298,846,45,32,2221
 United States Senator,0271,1303,371,1674,2469,67.80%,31,1597,5,10,1643
 United States Senator,0272,614,484,1098,2112,51.99%,399,627,28,14,1068
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0273,1143,634,1777,2426,73.25%,1429,300,23,8,1760
 United States Senator,0274,1056,364,1420,2063,68.83%,939,402,33,20,1394
 United States Senator,0275,570,410,980,1730,56.65%,178,752,12,6,948
@@ -313,7 +305,6 @@ United States Senator,0303,1780,755,2535,3172,79.92%,2008,445,29,7,2489
 United States Senator,0304,979,648,1627,2266,71.80%,908,619,28,25,1580
 United States Senator,0305,1321,858,2179,3621,60.18%,818,1257,28,20,2123
 United States Senator,0306,1020,323,1343,1847,72.71%,969,328,16,6,1319
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0307,1248,876,2124,2931,72.47%,1442,582,47,16,2087
 United States Senator,0308,445,238,683,1266,53.95%,202,447,9,4,662
 United States Senator,0309,1389,612,2001,2529,79.12%,1597,336,24,13,1970
@@ -348,7 +339,6 @@ United States Senator,0337,310,207,517,951,54.36%,88,409,5,6,508
 United States Senator,0338,1543,824,2367,4673,50.65%,676,1523,25,18,2242
 United States Senator,0339,369,373,742,1716,43.24%,196,496,12,10,714
 United States Senator,0340,1782,833,2615,3717,70.35%,1930,549,57,37,2573
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0341,246,316,562,1248,45.03%,157,373,5,11,546
 United States Senator,0342,2032,1113,3145,5718,55.00%,478,2553,32,15,3078
 United States Senator,0343,438,483,921,1904,48.37%,275,569,10,9,863
@@ -383,7 +373,6 @@ United States Senator,0371,226,69,295,475,62.11%,8,277,1,1,287
 United States Senator,0372,500,231,731,1215,60.16%,93,614,4,4,715
 United States Senator,0373,61,16,77,159,48.43%,2,73,0,0,75
 United States Senator,0374,139,187,326,748,43.58%,116,200,2,1,319
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0375,579,524,1103,2607,42.31%,487,555,10,19,1071
 United States Senator,0376,530,334,964,1916,50.31%,394,502,13,13,922
 United States Senator,0377,1056,707,1763,2871,61.41%,1296,373,34,19,1722
@@ -418,7 +407,6 @@ United States Senator,0405,0,1,1,0,0.00%,0,1,0,0,1
 United States Senator,0406,282,72,354,610,58.03%,11,324,3,4,342
 United States Senator,0407,1324,1000,2324,3652,63.64%,1458,723,45,20,2246
 United States Senator,0408,154,179,333,933,35.69%,153,156,4,8,321
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0409,277,289,566,1371,41.28%,191,334,6,4,535
 United States Senator,0410,337,102,439,849,51.71%,83,350,2,0,435
 United States Senator,0411,542,462,1004,2302,43.61%,329,617,10,11,967
@@ -453,7 +441,6 @@ United States Senator,0439,1527,905,2432,3416,71.19%,1699,634,29,17,2379
 United States Senator,0440,1331,876,2207,2867,76.98%,1744,390,22,7,2163
 United States Senator,0441,703,513,1216,1616,75.25%,904,263,17,10,1194
 United States Senator,0442,1367,513,1880,2504,75.08%,1539,279,23,16,1857
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0443,335,148,483,605,79.83%,348,114,12,3,477
 United States Senator,0444,1262,731,1993,3172,62.83%,1211,676,37,13,1937
 United States Senator,0445,862,443,1305,1938,67.34%,815,430,27,9,1281
@@ -488,7 +475,6 @@ United States Senator,0473,917,442,1359,1827,74.38%,925,370,23,17,1335
 United States Senator,0474,1152,766,1918,3006,63.81%,1299,525,41,17,1882
 United States Senator,0475,485,473,958,1651,58.03%,415,482,18,13,928
 United States Senator,0476,810,658,1468,2412,60.86%,853,549,21,13,1436
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0477,1442,742,2184,3195,68.36%,1633,477,29,13,2152
 United States Senator,0478,1965,898,2863,4150,68.99%,1865,879,44,21,2809
 United States Senator,0479,1304,588,1892,2648,71.45%,1372,438,43,12,1865
@@ -523,7 +509,6 @@ United States Senator,0507,584,385,969,2435,39.79%,157,665,14,8,844
 United States Senator,0508,948,760,1708,3248,52.59%,556,988,28,20,1592
 United States Senator,0509,1341,864,2205,3536,62.36%,1524,577,41,15,2157
 United States Senator,0510,1498,682,2180,3511,62.09%,982,1088,42,26,2138
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0511,0,8,8,0,0.00%,1,5,0,0,8
 United States Senator,0512,1588,1127,2895,4582,58.82%,1219,1334,59,17,2829
 United States Senator,0513,1812,507,2119,2752,77.00%,1594,457,23,11,2085
@@ -558,7 +543,6 @@ United States Senator,0541,1838,779,2817,4183,82.58%,355,2133,33,28,2547
 United States Senator,0542,997,501,1498,2525,59.33%,109,1341,9,8,1485
 United States Senator,0543,287,378,885,1528,43.52%,242,390,7,8,845
 United States Senator,0544,93,53,148,318,45.91%,17,121,2,0,140
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0545,1316,857,2173,3339,65.08%,1037,1031,36,18,2122
 United States Senator,0546,4,4,8,30,26.67%,2,6,0,0,8
 United States Senator,0547,879,647,1526,2408,63.37%,1028,412,39,16,1495
@@ -593,7 +577,6 @@ United States Senator,0575,27,9,36,79,45.57%,33,2,1,0,36
 United States Senator,0576,1053,552,1605,2671,60.09%,55,1484,6,10,1555
 United States Senator,0577,231,113,344,573,60.03%,190,132,6,6,334
 United States Senator,0578,749,553,1302,1689,77.09%,805,438,20,7,1270
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0579,489,351,840,1806,46.51%,217,572,8,6,803
 United States Senator,0580,430,146,576,1027,56.09%,18,544,3,2,567
 United States Senator,0581,510,162,672,1041,64.55%,21,630,0,5,656
@@ -628,7 +611,6 @@ United States Senator,0609,1366,844,2210,3261,67.77%,1349,738,42,26,2155
 United States Senator,0610,405,398,803,1825,44.00%,361,394,15,4,774
 United States Senator,0611,1122,301,1423,2450,58.08%,44,1329,5,5,1383
 United States Senator,0612,1705,579,2284,3272,69.80%,1729,451,40,23,2243
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0613,495,309,804,1450,55.45%,135,638,7,3,783
 United States Senator,0614,1636,812,2448,3932,62.26%,836,1499,36,18,2389
 United States Senator,0615,931,404,1335,1926,69.31%,780,494,23,10,1307
@@ -663,7 +645,6 @@ United States Senator,0643,2164,994,3158,5310,59.47%,1213,1785,43,27,3068
 United States Senator,0644,2128,1204,3332,5261,63.33%,2079,1091,68,30,3268
 United States Senator,0645,1651,895,2546,4035,63.10%,1163,1255,48,25,2491
 United States Senator,0646,710,456,1166,2163,53.91%,342,752,10,14,1118
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0647,1772,1020,2792,5593,49.92%,691,1869,27,21,2608
 United States Senator,0648,1593,668,2261,3197,70.72%,1580,600,32,13,2225
 United States Senator,0649,1391,854,2245,4426,50.72%,633,1479,36,16,2164
@@ -698,7 +679,6 @@ United States Senator,0677,220,239,459,954,48.11%,145,291,3,5,444
 United States Senator,0678,298,164,462,756,61.11%,318,126,6,4,454
 United States Senator,0679,1469,661,2130,3331,63.94%,1587,466,30,4,2087
 United States Senator,0680,57,22,79,181,43.65%,35,36,4,1,76
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0681,1,0,1,5,20.00%,0,1,0,0,1
 United States Senator,0682,1675,912,2587,4134,62.58%,1854,628,38,24,2544
 United States Senator,0683,48,50,98,261,37.55%,26,62,3,2,93
@@ -733,7 +713,6 @@ United States Senator,0711,1497,701,2198,3351,65.59%,1312,777,43,19,2151
 United States Senator,0712,1206,858,2064,3348,61.65%,830,1156,27,17,2030
 United States Senator,0713,667,436,1103,1827,60.37%,575,486,23,3,1087
 United States Senator,0714,77,3,80,304,26.32%,53,21,0,2,76
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0715,405,326,731,1380,52.97%,367,331,8,7,713
 United States Senator,0716,978,522,1600,2670,59.93%,1114,417,28,10,1569
 United States Senator,0717,826,362,1188,1927,61.65%,165,974,5,8,1152
@@ -768,7 +747,6 @@ United States Senator,0745,1069,542,1611,2396,67.24%,1015,522,31,13,1581
 United States Senator,0746,231,151,382,707,54.03%,188,163,13,4,368
 United States Senator,0747,1201,873,2074,3490,59.43%,966,1012,33,22,2033
 United States Senator,0748,424,307,731,1319,55.42%,319,358,29,6,712
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0749,99,57,156,359,43.45%,28,114,4,0,146
 United States Senator,0750,265,147,412,720,57.22%,232,155,11,2,400
 United States Senator,0751,1669,1254,2923,4451,65.67%,1921,875,55,28,2879
@@ -803,7 +781,6 @@ United States Senator,0779,295,221,516,1146,45.03%,173,309,3,5,490
 United States Senator,0780,136,114,250,579,43.18%,111,127,1,3,242
 United States Senator,0781,1155,655,1810,3716,48.71%,707,929,31,15,1682
 United States Senator,0782,852,532,1384,2188,63.25%,825,479,31,15,1350
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0783,103,43,146,265,55.09%,82,56,2,2,142
 United States Senator,0784,430,156,586,1071,54.72%,13,549,2,1,565
 United States Senator,0785,66,55,121,310,39.03%,65,54,0,1,120
@@ -830,7 +807,7 @@ United States Senator,0805,1511,529,2040,2812,72.55%,1598,354,48,13,2013
 United States Senator,0806,0,0,0,0,0.00%,0,0,0,0,0
 United States Senator,0807,654,402,1056,2001,52.77%,165,831,20,12,1028
 United States Senator,0808,42,26,68,84,80.95%,25,32,6,2,65
-United States Senator,0809,21,e,27,86,31.40%,10,16,0,0,26
+United States Senator,0809,216,27,86,31.40%,10,16,0,0,26
 United States Senator,0810,30,48,78,215,36.28%,23,48,3,0,74
 United States Senator,0811,39,106,145,271,53.51%,35,102,3,0,140
 United States Senator,0812,0,0,0,0,0.00%,0,0,0,0,0
@@ -838,7 +815,6 @@ United States Senator,0813,1970,1258,3228,5423,59.52%,1555,1539,53,17,3164
 United States Senator,0814,1776,955,2731,4503,60.65%,612,1977,34,24,2647
 United States Senator,0815,0,0,0,0,0.00%,0,0,0,0,0
 United States Senator,0816,20,13,33,76,43.42%,5,25,1,1,32
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0817,0,0,0,0,0.00%,0,0,0,0,0
 United States Senator,0818,134,101,235,527,44.59%,51,177,0,4,232
 United States Senator,0819,104,45,149,238,62.61%,95,41,1,1,138
@@ -873,7 +849,6 @@ United States Senator,0847,799,321,1120,1804,62.08%,300,769,15,9,1093
 United States Senator,0848,783,431,1214,1873,64.82%,389,782,8,7,1186
 United States Senator,0849,553,514,1067,2073,51.47%,370,624,7,16,1017
 United States Senator,0850,87,38,125,205,60.98%,49,70,3,1,123
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0851,2194,816,3010,4317,69.72%,1958,916,34,30,2938
 United States Senator,0852,0,4,4,2,200.00%,0,4,0,0,4
 United States Senator,0853,1415,605,2020,2773,72.85%,1544,405,30,10,1989
@@ -908,7 +883,6 @@ United States Senator,0881,1512,877,2389,3619,66.01%,763,1529,25,15,2332
 United States Senator,0882,941,457,1398,2328,60.05%,778,550,26,12,1366
 United States Senator,0883,1920,1042,2962,4651,63.69%,562,2291,26,18,2897
 United States Senator,0884,119,37,156,330,47.27%,21,127,0,1,149
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0885,1223,541,1764,2466,71.53%,1050,657,19,9,1735
 United States Senator,0886,302,154,456,713,63.96%,230,192,17,8,447
 United States Senator,0887,143,83,226,313,72.20%,128,79,12,0,219
@@ -943,7 +917,6 @@ United States Senator,0915,0,0,0,0,0.00%,0,0,0,0,0
 United States Senator,0916,505,182,787,1045,75.31%,647,115,8,3,773
 United States Senator,0917,283,137,420,481,87.32%,302,102,9,2,415
 United States Senator,0918,489,135,624,883,70.67%,486,115,10,4,615
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0919,0,3,3,3,100.00%,3,0,0,0,3
 United States Senator,0920,6,0,6,13,46.15%,6,0,0,0,6
 United States Senator,0921,71,9,80,87,91.95%,60,20,0,0,80
@@ -978,7 +951,6 @@ United States Senator,0949,59,37,96,201,47.76%,39,47,6,1,93
 United States Senator,0950,0,0,0,0,0.00%,0,0,0,0,0
 United States Senator,0951,79,44,123,218,56.42%,24,97,1,0,122
 United States Senator,0952,24,16,40,70,57.14%,22,17,1,0,40
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0953,59,52,111,420,26.43%,10,100,1,0,111
 United States Senator,0954,0,0,0,0,0.00%,0,0,0,0,0
 United States Senator,0955,5,20,25,18,138.89%,15,7,0,1,23
@@ -1005,7 +977,7 @@ United States Senator,0975,72,41,113,170,66.47%,49,57,2,2,110
 United States Senator,0976,159,131,290,684,42.40%,172,100,3,5,280
 United States Senator,0977,105,83,188,535,35.14%,71,109,2,1,183
 United States Senator,0978,201,102,303,506,59.88%,57,234,0,4,295
-United States Senator,0979,5,e,11,26,42.31%,11,0,0,0,11
+United States Senator,0979,56,11,26,42.31%,11,0,0,0,11
 United States Senator,0980,596,356,952,1323,71.96%,697,216,16,8,937
 United States Senator,0981,0,0,0,0,0.00%,0,0,0,0,0
 United States Senator,0982,535,218,753,1021,73.75%,586,130,15,5,736
@@ -1013,7 +985,6 @@ United States Senator,0983,42,28,70,165,42.42%,39,26,2,2,69
 United States Senator,0984,43,49,92,198,46.46%,8,79,1,0,88
 United States Senator,0985,172,67,239,336,71.13%,117,111,2,4,234
 United States Senator,0986,129,86,215,404,53.22%,24,180,1,0,205
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,0987,465,191,656,1138,57.64%,57,578,1,2,638
 United States Senator,0988,44,21,65,111,58.56%,51,9,0,1,61
 United States Senator,0989,18,8,26,36,72.22%,13,13,0,0,26
@@ -1048,7 +1019,6 @@ United States Senator,1017,129,50,179,232,77.16%,49,121,4,1,175
 United States Senator,1018,209,92,301,468,64.32%,149,146,1,2,298
 United States Senator,1019,427,4,431,1518,28.39%,20,393,1,3,417
 United States Senator,1020,0,0,0,1,0.00%,0,0,0,0,0
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,1021,1,0,1,2,50.00%,0,1,0,0,1
 United States Senator,1022,190,30,220,426,51.64%,173,44,1,1,219
 United States Senator,1023,898,401,1299,1964,66.14%,846,388,17,16,1267
@@ -1083,7 +1053,6 @@ United States Senator,1,051,0,1,2,1,2,0,0.00%,9,3,0,0,1,2
 United States Senator,1052,0,2,2,0,0.00%,1,1,0,0,2
 United States Senator,1053,0,0,0,0,0.00%,0,0,0,0,0
 United States Senator,1054,0,0,0,1,0.00%,0,0,0,0,0
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Ted Cruz,DEM Paul Sadler,LIB John Jay Myers,GRN David B. Collins,Totals
 United States Senator,1055,0,0,0,0,0.00%,0,0,0,0,0
 United States Senator,1056,4,0,4,6,66.67%,0,4,0,0,4
 United States Senator,1057,34,7,41,115,35.65%,2,36,0,1,39

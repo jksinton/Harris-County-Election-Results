@@ -33,7 +33,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Constable, Precinct 1",0086,1054,689,1743,2637,66.10%,710,798,75,47,1630
 "Constable, Precinct 1",0087,1222,861,2083,2749,75.77%,1171,660,54,17,1902
 "Constable, Precinct 1",0089,342,454,796,1104,72.10%,381,309,23,8,721
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Joe Danna,DEM Alan Rosen,LIB James C. Lancaster,GRN Carlos Villalobos,Totals
 "Constable, Precinct 1",0101,203,186,389,941,41.34%,75,282,6,14,377
 "Constable, Precinct 1",0105,452,453,915,2153,42.50%,190,603,12,51,856
 "Constable, Precinct 1",0106,49,37,86,284,30.28%,38,42,1,2,83
@@ -68,7 +67,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Constable, Precinct 1",0184,214,255,470,969,48.50%,116,293,6,25,440
 "Constable, Precinct 1",0185,592,494,1086,1910,56.86%,309,669,11,36,1025
 "Constable, Precinct 1",0189,492,473,965,1453,66.41%,477,355,31,31,894
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Joe Danna,DEM Alan Rosen,LIB James C. Lancaster,GRN Carlos Villalobos,Totals
 "Constable, Precinct 1",0192,746,332,1078,2045,52.71%,34,989,6,7,1036
 "Constable, Precinct 1",0195,539,419,958,1721,55.67%,21,883,11,8,923
 "Constable, Precinct 1",0196,121,55,176,323,54.49%,7,155,3,3,168
@@ -103,7 +101,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Constable, Precinct 1",0331,0,1,1,0,0.00%,1,0,0,0,1
 "Constable, Precinct 1",0332,23,4,27,128,21.09%,10,15,0,0,25
 "Constable, Precinct 1",0341,246,316,562,1248,45.03%,109,376,8,44,537
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Joe Danna,DEM Alan Rosen,LIB James C. Lancaster,GRN Carlos Villalobos,Totals
 "Constable, Precinct 1",0344,395,245,640,1207,53.02%,18,580,5,11,614
 "Constable, Precinct 1",0345,428,357,785,1708,45.96%,146,560,28,15,749
 "Constable, Precinct 1",0350,1112,780,1892,2906,65.11%,675,961,63,40,1739
@@ -138,7 +135,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Constable, Precinct 1",0543,287,378,665,1528,43.52%,182,388,11,50,631
 "Constable, Precinct 1",0544,92,53,145,318,45.60%,16,118,3,5,142
 "Constable, Precinct 1",0562,201,146,347,645,53.80%,23,295,1,15,334
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Joe Danna,DEM Alan Rosen,LIB James C. Lancaster,GRN Carlos Villalobos,Totals
 "Constable, Precinct 1",0570,525,409,934,1473,63.41%,366,433,39,20,858
 "Constable, Precinct 1",0571,333,312,645,1758,36.69%,180,390,1,38,609
 "Constable, Precinct 1",0574,98,79,177,391,45.27%,14,143,1,8,166
@@ -173,7 +169,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Constable, Precinct 1",0702,150,123,273,549,49.73%,21,224,3,12,260
 "Constable, Precinct 1",0707,284,136,420,707,59.41%,222,145,18,9,394
 "Constable, Precinct 1",0710,877,502,1479,2023,73.11%,767,518,59,23,1367
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Joe Danna,DEM Alan Rosen,LIB James C. Lancaster,GRN Carlos Villalobos,Totals
 "Constable, Precinct 1",0714,77,3,80,304,26.32%,52,22,1,2,77
 "Constable, Precinct 1",0723,747,329,1076,1760,61.14%,212,791,16,16,1035
 "Constable, Precinct 1",0741,0,0,0,0,0.00%,0,0,0,0,0
@@ -208,9 +203,8 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Constable, Precinct 1",0895,335,325,660,784,84.18%,241,316,20,20,597
 "Constable, Precinct 1",0896,670,303,973,1437,67.71%,337,499,29,31,896
 "Constable, Precinct 1",0902,855,521,1486,2065,71.96%,783,520,53,33,1389
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Joe Danna,DEM Alan Rosen,LIB James C. Lancaster,GRN Carlos Villalobos,Totals
 "Constable, Precinct 1",0903,10,1,11,41,26.83%,6,4,0,0,10
-"Constable, Precinct 1",0906,12,e,18,26,69.23%,9,8,0,0,17
+"Constable, Precinct 1",0906,126,18,26,69.23%,9,8,0,0,17
 "Constable, Precinct 1",0909,5,7,12,19,63.16%,5,5,1,1,12
 "Constable, Precinct 1",0910,55,34,89,226,39.38%,32,45,2,5,84
 "Constable, Precinct 1",0922,0,2,2,0,0.00%,0,1,1,0,2

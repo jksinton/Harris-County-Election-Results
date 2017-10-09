@@ -1,4 +1,3 @@
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,For,Against,Totals
 "City of Houston, Proposition B",0001,806,516,1322,2155,61.35%,865,256,1121
 "City of Houston, Proposition B",0002,753,407,1160,1890,61.38%,762,211,973
 "City of Houston, Proposition B",0003,660,474,1134,1519,74.65%,799,203,1002
@@ -33,7 +32,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "City of Houston, Proposition B",0037,801,479,1280,1885,67.90%,922,220,1142
 "City of Houston, Proposition B",0038,1241,673,1914,2703,70.81%,1341,356,1697
 "City of Houston, Proposition B",0039,1063,723,1786,2726,65.52%,1355,239,1594
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,For,Against,Totals
 "City of Houston, Proposition B",0040,239,135,374,524,71.37%,234,86,320
 "City of Houston, Proposition B",0042,505,139,644,1121,57.45%,294,92,386
 "City of Houston, Proposition B",0043,520,372,892,1644,54.26%,443,250,693
@@ -68,7 +66,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "City of Houston, Proposition B",0075,481,370,851,1329,64.03%,547,201,748
 "City of Houston, Proposition B",0076,731,480,1211,2009,60.28%,505,405,910
 "City of Houston, Proposition B",0077,168,81,249,565,44.07%,133,38,171
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,For,Against,Totals
 "City of Houston, Proposition B",0078,359,344,703,1479,47.53%,395,171,566
 "City of Houston, Proposition B",0079,511,717,1228,2959,41.50%,621,227,848
 "City of Houston, Proposition B",0080,1159,481,1640,2712,60.47%,791,374,1165
@@ -103,7 +100,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "City of Houston, Proposition B",0125,0,3,3,0,0.00%,0,1,1
 "City of Houston, Proposition B",0126,0,0,0,0,0.00%,0,0,0
 "City of Houston, Proposition B",0129,2294,1449,3743,5495,68.12%,2054,1056,3110
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,For,Against,Totals
 "City of Houston, Proposition B",0130,1201,523,1724,2240,76.96%,762,670,1432
 "City of Houston, Proposition B",0131,257,124,381,906,42.05%,175,107,282
 "City of Houston, Proposition B",0132,1119,397,1516,2449,61.90%,729,267,996
@@ -138,7 +134,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "City of Houston, Proposition B",0162,232,262,494,1249,39.55%,220,100,320
 "City of Houston, Proposition B",0163,0,2,2,0,0.00%,1,0,1
 "City of Houston, Proposition B",0164,505,304,809,1434,56.42%,392,104,496
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,For,Against,Totals
 "City of Houston, Proposition B",0165,918,557,1475,2284,64.58%,720,527,1247
 "City of Houston, Proposition B",0166,281,311,592,1016,58.27%,374,129,503
 "City of Houston, Proposition B",0167,5,2,7,23,30.43%,5,1,6
@@ -173,7 +168,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "City of Houston, Proposition B",0202,488,332,820,1479,55.44%,412,119,531
 "City of Houston, Proposition B",0203,266,156,422,900,46.89%,217,84,301
 "City of Houston, Proposition B",0204,1489,914,2403,3462,69.41%,1304,785,2089
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,For,Against,Totals
 "City of Houston, Proposition B",0205,856,201,1057,1667,63.41%,436,219,655
 "City of Houston, Proposition B",0206,651,659,1310,2662,49.21%,826,264,1090
 "City of Houston, Proposition B",0207,409,310,719,1144,62.85%,403,208,611
@@ -208,7 +202,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "City of Houston, Proposition B",0238,640,422,1062,1901,55.87%,511,158,669
 "City of Houston, Proposition B",0239,765,357,1122,1997,56.18%,558,176,734
 "City of Houston, Proposition B",0240,1157,402,1559,2688,58.00%,721,306,1027
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,For,Against,Totals
 "City of Houston, Proposition B",0243,254,50,304,452,67.26%,150,54,204
 "City of Houston, Proposition B",0247,421,403,824,1607,51.28%,411,162,573
 "City of Houston, Proposition B",0252,1111,356,1467,2350,62.43%,543,259,802
@@ -243,7 +236,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "City of Houston, Proposition B",0288,1036,380,1416,2259,62.68%,714,256,970
 "City of Houston, Proposition B",0289,374,397,771,1510,51.06%,349,217,566
 "City of Houston, Proposition B",0291,541,298,839,1203,69.74%,471,247,718
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,For,Against,Totals
 "City of Houston, Proposition B",0292,477,236,713,1272,56.05%,334,140,474
 "City of Houston, Proposition B",0293,620,557,1177,1733,67.92%,662,320,982
 "City of Houston, Proposition B",0294,989,298,1287,2107,61.08%,654,230,884
@@ -278,7 +270,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "City of Houston, Proposition B",0329,405,307,712,1367,52.08%,344,180,524
 "City of Houston, Proposition B",0330,590,376,966,1849,52.24%,515,247,762
 "City of Houston, Proposition B",0331,0,1,1,0,0.00%,1,0,1
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,For,Against,Totals
 "City of Houston, Proposition B",0332,23,4,27,128,21.09%,15,7,22
 "City of Houston, Proposition B",0334,205,91,296,603,49.09%,146,41,187
 "City of Houston, Proposition B",0335,285,246,531,1227,43.28%,268,87,355
@@ -313,7 +304,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "City of Houston, Proposition B",0369,107,53,160,490,32.65%,103,19,122
 "City of Houston, Proposition B",0371,226,69,295,475,62.11%,99,54,153
 "City of Houston, Proposition B",0372,498,231,729,1215,60.00%,410,135,545
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,For,Against,Totals
 "City of Houston, Proposition B",0373,61,16,77,159,48.43%,33,16,49
 "City of Houston, Proposition B",0374,139,187,326,748,43.58%,158,70,228
 "City of Houston, Proposition B",0375,10,5,15,58,25.86%,6,3,9
@@ -348,7 +338,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "City of Houston, Proposition B",0412,193,74,267,433,61.66%,130,47,177
 "City of Houston, Proposition B",0413,0,0,0,0,0.00%,0,0,0
 "City of Houston, Proposition B",0416,918,850,1768,2956,59.81%,866,494,1360
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,For,Against,Totals
 "City of Houston, Proposition B",0417,403,258,661,1127,58.65%,301,212,513
 "City of Houston, Proposition B",0418,1057,758,1815,3420,53.07%,938,405,1343
 "City of Houston, Proposition B",0421,124,92,216,467,46.25%,113,42,155
@@ -383,7 +372,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "City of Houston, Proposition B",0452,0,0,0,0,0.00%,0,0,0
 "City of Houston, Proposition B",0453,559,475,1034,1885,54.85%,565,206,771
 "City of Houston, Proposition B",0454,1226,311,1537,2571,59.78%,576,250,826
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,For,Against,Totals
 "City of Houston, Proposition B",0455,748,216,964,1679,57.42%,425,142,567
 "City of Houston, Proposition B",0457,0,0,0,0,0.00%,0,0,0
 "City of Houston, Proposition B",0458,908,271,1179,1893,62.28%,647,195,842
@@ -418,7 +406,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "City of Houston, Proposition B",0506,0,0,0,0,0.00%,0,0,0
 "City of Houston, Proposition B",0507,582,385,967,2435,39.71%,424,109,533
 "City of Houston, Proposition B",0508,946,760,1706,3248,52.52%,788,309,1097
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,For,Against,Totals
 "City of Houston, Proposition B",0510,1492,682,2174,3511,61.92%,1164,538,1702
 "City of Houston, Proposition B",0516,160,86,246,399,61.65%,127,40,167
 "City of Houston, Proposition B",0517,1,0,1,0,0.00%,1,0,1
@@ -453,7 +440,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "City of Houston, Proposition B",0564,1150,713,1863,3096,60.17%,1181,351,1532
 "City of Houston, Proposition B",0565,315,194,509,1373,37.07%,255,75,330
 "City of Houston, Proposition B",0566,1122,478,1600,2950,54.24%,896,276,1172
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,For,Against,Totals
 "City of Houston, Proposition B",0567,672,394,1066,2198,48.50%,511,159,670
 "City of Houston, Proposition B",0568,1628,837,2465,3487,70.69%,1147,829,1976
 "City of Houston, Proposition B",0569,1294,865,2159,3249,66.45%,1238,526,1764
@@ -488,7 +474,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "City of Houston, Proposition B",0607,194,118,312,731,42.68%,157,36,193
 "City of Houston, Proposition B",0608,68,48,116,252,46.03%,63,29,92
 "City of Houston, Proposition B",0610,403,398,801,1825,43.89%,368,219,587
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,For,Against,Totals
 "City of Houston, Proposition B",0611,1120,301,1421,2450,58.00%,507,207,714
 "City of Houston, Proposition B",0612,1700,579,2279,3272,69.65%,846,1043,1889
 "City of Houston, Proposition B",0620,2382,856,3238,5271,61.43%,1597,879,2476
@@ -523,7 +508,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "City of Houston, Proposition B",0666,0,1,1,0,0.00%,1,0,1
 "City of Houston, Proposition B",0670,1566,518,2084,2952,70.60%,715,1070,1785
 "City of Houston, Proposition B",0674,20,3,23,26,88.46%,5,12,17
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,For,Against,Totals
 "City of Houston, Proposition B",0675,0,0,0,0,0.00%,0,0,0
 "City of Houston, Proposition B",0676,0,0,0,0,0.00%,0,0,0
 "City of Houston, Proposition B",0677,220,239,459,954,48.11%,263,104,367
@@ -558,7 +542,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "City of Houston, Proposition B",0727,931,466,1397,2488,56.15%,808,254,1062
 "City of Houston, Proposition B",0728,343,208,551,881,62.54%,285,166,451
 "City of Houston, Proposition B",0730,800,437,1237,1630,75.89%,669,342,1011
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,For,Against,Totals
 "City of Houston, Proposition B",0731,121,36,157,373,42.09%,90,32,122
 "City of Houston, Proposition B",0732,701,543,1244,1895,65.65%,588,396,984
 "City of Houston, Proposition B",0734,0,0,0,0,0.00%,0,0,0
@@ -590,10 +573,9 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "City of Houston, Proposition B",0775,33,1,34,83,40.96%,17,5,22
 "City of Houston, Proposition B",0776,0,0,0,0,0.00%,0,0,0
 "City of Houston, Proposition B",0778,0,0,0,0,0.00%,0,0,0
-"City of Houston, Proposition B",0779,270,21,e,486,1055,46.07%,228,110,338
+"City of Houston, Proposition B",0779,270,216,486,1055,46.07%,228,110,338
 "City of Houston, Proposition B",0780,6,7,13,20,65.00%,4,5,9
 "City of Houston, Proposition B",0781,1152,655,1807,3716,48.63%,824,394,1218
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,For,Against,Totals
 "City of Houston, Proposition B",0782,1,0,1,0,0.00%,0,0,0
 "City of Houston, Proposition B",0784,428,156,584,1071,54.53%,213,88,301
 "City of Houston, Proposition B",0787,154,76,230,487,47.23%,112,56,168
@@ -628,7 +610,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "City of Houston, Proposition B",0822,584,282,866,1544,56.09%,409,152,561
 "City of Houston, Proposition B",0823,359,157,516,789,65.40%,241,101,342
 "City of Houston, Proposition B",0824,86,53,139,289,48.10%,64,35,99
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,For,Against,Totals
 "City of Houston, Proposition B",0825,0,0,0,0,0.00%,0,0,0
 "City of Houston, Proposition B",0828,153,89,242,342,70.78%,137,77,214
 "City of Houston, Proposition B",0827,8,8,14,28,50.00%,8,4,10
@@ -663,7 +644,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "City of Houston, Proposition B",0883,210,89,279,820,45.00%,117,51,188
 "City of Houston, Proposition B",0885,9,2,11,23,47.83%,3,8,9
 "City of Houston, Proposition B",0888,0,0,0,0,0.00%,0,0,0
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,For,Against,Totals
 "City of Houston, Proposition B",0867,0,0,0,0,0.00%,0,0,0
 "City of Houston, Proposition B",0869,153,76,229,473,48.41%,115,28,143
 "City of Houston, Proposition B",0870,0,0,0,0,0.00%,0,0,0
@@ -698,7 +678,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "City of Houston, Proposition B",0928,4,2,6,9,66.67%,5,1,6
 "City of Houston, Proposition B",0929,0,0,0,0,0.00%,0,0,0
 "City of Houston, Proposition B",0930,200,77,277,567,48.85%,126,51,177
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,For,Against,Totals
 "City of Houston, Proposition B",0931,48,53,101,122,82.79%,88,23,89
 "City of Houston, Proposition B",0932,0,5,5,0,0.00%,5,0,5
 "City of Houston, Proposition B",0933,233,121,354,588,82.54%,208,79,285
@@ -733,7 +712,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "City of Houston, Proposition B",0971,27,21,48,129,37.21%,24,5,29
 "City of Houston, Proposition B",0972,10,7,17,29,58.82%,10,3,13
 "City of Houston, Proposition B",0973,49,24,73,107,88.22%,42,22,84
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,For,Against,Totals
 "City of Houston, Proposition B",0974,100,71,171,299,57.19%,84,62,146
 "City of Houston, Proposition B",0975,72,41,113,170,66.47%,64,32,96
 "City of Houston, Proposition B",0976,0,1,7,1,7,0,0.00%,6,5,1,1
@@ -768,7 +746,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "City of Houston, Proposition B",1038,94,10,104,156,66.67%,42,14,56
 "City of Houston, Proposition B",1039,3,5,8,20,40.00%,6,1,7
 "City of Houston, Proposition B",1040,43,45,88,159,55.35%,48,21,69
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,For,Against,Totals
 "City of Houston, Proposition B",1041,0,0,0,0,0.00%,0,0,0
 "City of Houston, Proposition B",1046,19,18,37,54,68.52%,20,5,25
 "City of Houston, Proposition B",1047,0,1,1,0,0.00%,0,0,0

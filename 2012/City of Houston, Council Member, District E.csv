@@ -8,7 +8,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "City of Houston, Council Member, District E",0141,0,0,0,0,0.00%,0,0,0,0
 "City of Houston, Council Member, District E",0162,232,262,494,1249,39.55%,62,195,22,279
 "City of Houston, Council Member, District E",0174,0,3,3,0,0.00%,2,0,0,2
-"City of Houston, Council Member, District E",0181,41,e,514,930,1968,47.26%,118,447,24,589
+"City of Houston, Council Member, District E",0181,416,514,930,1968,47.26%,118,447,24,589
 "City of Houston, Council Member, District E",0199,1407,773,2180,3159,69.01%,941,387,127,1455
 "City of Houston, Council Member, District E",0220,0,5,5,0,0.00%,2,2,1,5
 "City of Houston, Council Member, District E",0221,699,611,1310,2489,52.63%,210,615,37,862
@@ -33,7 +33,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "City of Houston, Council Member, District E",0388,0,6,6,0,0.00%,1,2,1,4
 "City of Houston, Council Member, District E",0391,655,253,908,1326,68.48%,275,232,35,542
 "City of Houston, Council Member, District E",0393,345,318,664,1206,55.06%,136,211,49,396
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,Dave Martin,Elizabeth C. Perez,Lonnie Allsbrooks,Totals
 "City of Houston, Council Member, District E",0413,0,0,0,0,0.00%,0,0,0,0
 "City of Houston, Council Member, District E",0416,919,850,1769,2956,59.84%,436,518,83,1037
 "City of Houston, Council Member, District E",0459,1637,476,2113,2950,71.63%,1064,363,99,1526
@@ -68,7 +67,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "City of Houston, Council Member, District E",0744,848,509,1357,2024,67.05%,404,355,61,820
 "City of Houston, Council Member, District E",0745,1066,542,1608,2396,67.11%,444,421,80,945
 "City of Houston, Council Member, District E",0746,230,151,381,707,53.89%,80,105,23,208
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,Dave Martin,Elizabeth C. Perez,Lonnie Allsbrooks,Totals
 "City of Houston, Council Member, District E",0748,288,201,487,882,58.50%,94,151,25,270
 "City of Houston, Council Member, District E",0755,1048,898,1944,3589,54.47%,314,772,98,1182
 "City of Houston, Council Member, District E",0758,1998,783,2779,3781,73.50%,1273,449,108,1830

@@ -33,7 +33,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "County School Trustee, Position 4, Precinct 3",0213,1603,939,2542,3308,76.84%,1856,482,2338
 "County School Trustee, Position 4, Precinct 3",0214,798,544,1342,1795,74.76%,786,428,1214
 "County School Trustee, Position 4, Precinct 3",0215,844,786,1630,2168,75.18%,917,577,1494
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Kay Smith,DEM Silvia Mintz,Totals
 "County School Trustee, Position 4, Precinct 3",0234,2088,885,2973,3854,77.14%,2136,608,2744
 "County School Trustee, Position 4, Precinct 3",0256,1059,766,1825,3226,56.57%,685,995,1680
 "County School Trustee, Position 4, Precinct 3",0258,1577,888,2465,3286,75.02%,1700,560,2260
@@ -68,7 +67,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "County School Trustee, Position 4, Precinct 3",0345,428,357,785,1708,45.96%,155,584,739
 "County School Trustee, Position 4, Precinct 3",0356,1382,618,2000,2836,70.52%,1127,739,1866
 "County School Trustee, Position 4, Precinct 3",0360,969,515,1484,2190,67.76%,755,571,1326
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Kay Smith,DEM Silvia Mintz,Totals
 "County School Trustee, Position 4, Precinct 3",0362,2131,1200,3331,4952,67.27%,2361,796,3157
 "County School Trustee, Position 4, Precinct 3",0370,3143,1178,4321,5781,74.74%,3216,912,4128
 "County School Trustee, Position 4, Precinct 3",0385,1099,621,1720,2175,79.08%,1218,366,1584
@@ -103,7 +101,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "County School Trustee, Position 4, Precinct 3",0487,1005,612,1617,3318,48.73%,452,1028,1480
 "County School Trustee, Position 4, Precinct 3",0488,580,440,1020,1713,59.54%,331,614,945
 "County School Trustee, Position 4, Precinct 3",0490,876,439,1315,1944,67.64%,457,780,1237
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Kay Smith,DEM Silvia Mintz,Totals
 "County School Trustee, Position 4, Precinct 3",0491,667,489,1156,1782,64.87%,627,443,1070
 "County School Trustee, Position 4, Precinct 3",0492,1069,504,1573,2351,66.91%,795,662,1457
 "County School Trustee, Position 4, Precinct 3",0493,858,400,1258,1804,69.73%,774,394,1168
@@ -138,7 +135,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "County School Trustee, Position 4, Precinct 3",0603,1437,1163,2600,3917,66.38%,1541,967,2508
 "County School Trustee, Position 4, Precinct 3",0616,1352,970,2322,3378,68.74%,1567,641,2208
 "County School Trustee, Position 4, Precinct 3",0618,1920,1021,2941,5344,55.03%,1257,1570,2827
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Kay Smith,DEM Silvia Mintz,Totals
 "County School Trustee, Position 4, Precinct 3",0619,2133,857,2990,4266,70.09%,2162,689,2851
 "County School Trustee, Position 4, Precinct 3",0620,2382,856,3238,5271,61.43%,1504,1525,3029
 "County School Trustee, Position 4, Precinct 3",0621,397,203,600,1173,51.15%,291,274,565
@@ -173,7 +169,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "County School Trustee, Position 4, Precinct 3",0734,3209,1114,4323,5952,72.63%,2866,1296,4162
 "County School Trustee, Position 4, Precinct 3",0751,1664,1254,2918,4451,65.56%,1920,860,2780
 "County School Trustee, Position 4, Precinct 3",0761,917,219,1136,1464,77.60%,802,251,1053
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Kay Smith,DEM Silvia Mintz,Totals
 "County School Trustee, Position 4, Precinct 3",0765,1390,815,2205,3967,55.58%,749,1348,2097
 "County School Trustee, Position 4, Precinct 3",0772,2927,1002,3929,5617,69.95%,2873,881,3754
 "County School Trustee, Position 4, Precinct 3",0773,892,550,1442,2648,54.46%,342,1019,1361
@@ -200,7 +195,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "County School Trustee, Position 4, Precinct 3",0917,280,137,417,481,86.69%,279,102,381
 "County School Trustee, Position 4, Precinct 3",0918,489,135,624,883,70.67%,465,119,584
 "County School Trustee, Position 4, Precinct 3",0919,0,3,3,3,100.00%,1,2,3
-"County School Trustee, Position 4, Precinct 3",0920,e,0,6,13,46.15%,6,0,6
+"County School Trustee, Position 4, Precinct 3",09206,0,6,13,46.15%,6,0,6
 "County School Trustee, Position 4, Precinct 3",0921,71,9,80,87,91.95%,62,18,80
 "County School Trustee, Position 4, Precinct 3",0923,663,87,750,826,90.80%,565,155,720
 "County School Trustee, Position 4, Precinct 3",0938,73,14,87,256,33.98%,28,56,84
@@ -208,7 +203,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "County School Trustee, Position 4, Precinct 3",0942,68,24,92,159,57.86%,72,13,85
 "County School Trustee, Position 4, Precinct 3",0943,296,63,359,536,66.98%,242,89,331
 "County School Trustee, Position 4, Precinct 3",0944,30,6,36,39,92.31%,29,4,33
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Kay Smith,DEM Silvia Mintz,Totals
 "County School Trustee, Position 4, Precinct 3",0951,79,44,123,218,56.42%,22,97,119
 "County School Trustee, Position 4, Precinct 3",0952,24,1e,40,70,57.14%,17,19,36
 "County School Trustee, Position 4, Precinct 3",0971,27,21,48,129,37.21%,1,47,48
