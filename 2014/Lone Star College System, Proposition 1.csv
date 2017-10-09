@@ -26,13 +26,12 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Lone Star College System, Proposition 1",0143,1962,580,2542,6386,39.81%,1360,742,2102
 "Lone Star College System, Proposition 1",0147,689,329,1018,3008,33.84%,618,182,800
 "Lone Star College System, Proposition 1",0149,1585,729,2314,7857,29.45%,1280,682,1962
-"Lone Star College System, Proposition 1",0152,e,3,9,112,8.04%,4,2,6
+"Lone Star College System, Proposition 1",01526,3,9,112,8.04%,4,2,6
 "Lone Star College System, Proposition 1",0155,1022,619,1641,4109,39.94%,773,529,1302
 "Lone Star College System, Proposition 1",0157,448,214,662,2236,29.61%,364,73,437
 "Lone Star College System, Proposition 1",0169,308,134,442,1374,32.17%,257,47,304
 "Lone Star College System, Proposition 1",0173,817,739,1556,3599,43.23%,751,455,1206
 "Lone Star College System, Proposition 1",0185,283,287,570,1929,29.55%,276,151,427
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,FOR,AGAINST,Totals
 "Lone Star College System, Proposition 1",0197,49,18,67,400,16.75%,45,4,49
 "Lone Star College System, Proposition 1",0199,812,661,1473,3216,45.80%,699,530,1229
 "Lone Star College System, Proposition 1",0212,84,138,222,1135,19.56%,131,37,168
@@ -66,7 +65,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Lone Star College System, Proposition 1",0388,1430,1010,2440,6888,35.42%,1230,714,1944
 "Lone Star College System, Proposition 1",0397,86,78,164,760,21.58%,102,36,138
 "Lone Star College System, Proposition 1",0398,615,519,1134,4022,28.19%,615,282,897
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,FOR,AGAINST,Totals
 "Lone Star College System, Proposition 1",0399,402,366,768,2791,27.52%,453,171,624
 "Lone Star College System, Proposition 1",0405,0,0,0,0,0.00%,0,0,0
 "Lone Star College System, Proposition 1",0408,146,153,299,1691,17.68%,155,86,241
@@ -100,7 +98,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Lone Star College System, Proposition 1",0495,522,523,1045,2375,44.00%,542,297,839
 "Lone Star College System, Proposition 1",0496,190,315,505,2160,23.38%,290,95,385
 "Lone Star College System, Proposition 1",0497,84,71,155,733,21.15%,85,20,105
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,FOR,AGAINST,Totals
 "Lone Star College System, Proposition 1",0498,360,322,682,2290,29.78%,360,174,534
 "Lone Star College System, Proposition 1",0500,729,715,1444,3507,41.17%,766,349,1115
 "Lone Star College System, Proposition 1",0511,0,0,0,0,0.00%,0,0,0
@@ -134,7 +131,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Lone Star College System, Proposition 1",0594,561,326,887,2490,35.62%,522,175,697
 "Lone Star College System, Proposition 1",0595,201,178,379,1693,22.39%,219,42,261
 "Lone Star College System, Proposition 1",0596,441,348,789,3007,26.24%,419,179,598
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,FOR,AGAINST,Totals
 "Lone Star College System, Proposition 1",0597,367,394,761,3653,20.83%,417,150,567
 "Lone Star College System, Proposition 1",0598,195,57,252,728,34.62%,119,84,203
 "Lone Star College System, Proposition 1",0599,850,578,1428,4950,28.85%,788,322,1110
@@ -168,7 +164,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Lone Star College System, Proposition 1",0651,963,766,1729,5128,33.72%,961,461,1422
 "Lone Star College System, Proposition 1",0657,246,172,418,1292,32.35%,247,82,329
 "Lone Star College System, Proposition 1",0658,540,426,966,2807,34.41%,518,256,774
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,FOR,AGAINST,Totals
 "Lone Star College System, Proposition 1",0659,1149,788,1937,4856,39.89%,973,554,1527
 "Lone Star College System, Proposition 1",0660,950,825,1775,5372,33.04%,1045,263,1308
 "Lone Star College System, Proposition 1",0661,675,765,1440,4567,31.53%,793,353,1146
@@ -198,11 +193,10 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Lone Star College System, Proposition 1",0729,136,59,195,464,42.03%,106,57,163
 "Lone Star College System, Proposition 1",0733,13,7,20,215,9.30%,11,4,15
 "Lone Star College System, Proposition 1",0734,1558,962,2520,7005,35.97%,1246,722,1968
-"Lone Star College System, Proposition 1",0735,e,0,6,18,33.33%,2,1,3
+"Lone Star College System, Proposition 1",07356,0,6,18,33.33%,2,1,3
 "Lone Star College System, Proposition 1",0737,11,7,18,51,35.29%,7,5,12
 "Lone Star College System, Proposition 1",0738,139,100,239,1361,17.56%,140,31,171
 "Lone Star College System, Proposition 1",0742,0,10,10,0,0.00%,7,2,9
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,FOR,AGAINST,Totals
 "Lone Star College System, Proposition 1",0743,15,18,33,210,15.71%,17,10,27
 "Lone Star College System, Proposition 1",0747,550,467,1017,3743,27.17%,572,242,814
 "Lone Star College System, Proposition 1",0753,55,73,128,259,49.42%,62,39,101
@@ -236,7 +230,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Lone Star College System, Proposition 1",0848,489,266,755,1856,40.68%,433,178,611
 "Lone Star College System, Proposition 1",0851,1029,657,1686,4709,35.80%,835,454,1289
 "Lone Star College System, Proposition 1",0853,676,620,1296,2882,44.97%,667,366,1033
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,FOR,AGAINST,Totals
 "Lone Star College System, Proposition 1",0855,5,9,14,16,87.50%,6,1,7
 "Lone Star College System, Proposition 1",0859,157,106,263,890,29.55%,159,48,207
 "Lone Star College System, Proposition 1",0861,315,199,514,1842,27.90%,287,73,360
@@ -270,7 +263,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Lone Star College System, Proposition 1",0923,470,137,607,1511,40.17%,277,224,501
 "Lone Star College System, Proposition 1",0926,171,128,299,796,37.56%,172,72,244
 "Lone Star College System, Proposition 1",0934,2,0,2,63,3.17%,2,0,2
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,FOR,AGAINST,Totals
 "Lone Star College System, Proposition 1",0936,8,2,10,81,12.35%,6,3,9
 "Lone Star College System, Proposition 1",0937,0,0,0,0,0.00%,0,0,0
 "Lone Star College System, Proposition 1",0939,0,0,0,2,0.00%,0,0,0
@@ -304,7 +296,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Lone Star College System, Proposition 1",1015,5,4,9,25,36.00%,6,1,7
 "Lone Star College System, Proposition 1",1016,252,212,464,1691,27.44%,275,98,373
 "Lone Star College System, Proposition 1",1017,61,44,105,330,31.82%,62,19,81
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,FOR,AGAINST,Totals
 "Lone Star College System, Proposition 1",1018,93,64,157,494,31.78%,84,40,124
 "Lone Star College System, Proposition 1",1021,0,0,0,2,0.00%,0,0,0
 "Lone Star College System, Proposition 1",1022,97,79,176,441,39.91%,86,50,136

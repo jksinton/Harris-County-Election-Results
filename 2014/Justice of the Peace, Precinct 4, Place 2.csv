@@ -32,7 +32,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice of the Peace, Precinct 4, Place 2",0363,620,412,1032,3677,28.07%,534,534
 "Justice of the Peace, Precinct 4, Place 2",0370,1532,1105,2637,6593,40.00%,2069,2069
 "Justice of the Peace, Precinct 4, Place 2",0388,1430,1010,2440,6888,35.42%,1538,1538
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Laryssa Korduba,Totals
 "Justice of the Peace, Precinct 4, Place 2",0399,402,366,768,2791,27.52%,481,481
 "Justice of the Peace, Precinct 4, Place 2",0405,0,0,0,0,0.00%,0,0
 "Justice of the Peace, Precinct 4, Place 2",0410,132,80,212,899,23.58%,49,49
@@ -66,7 +65,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice of the Peace, Precinct 4, Place 2",0519,623,493,1116,2966,37.63%,884,884
 "Justice of the Peace, Precinct 4, Place 2",0520,473,457,930,4580,20.31%,244,244
 "Justice of the Peace, Precinct 4, Place 2",0529,1043,491,1534,3710,41.35%,1351,1351
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Laryssa Korduba,Totals
 "Justice of the Peace, Precinct 4, Place 2",0548,286,293,579,2215,26.14%,350,350
 "Justice of the Peace, Precinct 4, Place 2",0549,343,418,761,2663,28.58%,152,152
 "Justice of the Peace, Precinct 4, Place 2",0550,501,431,932,3031,30.75%,572,572
@@ -100,7 +98,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice of the Peace, Precinct 4, Place 2",0640,641,459,1100,3733,29.47%,750,750
 "Justice of the Peace, Precinct 4, Place 2",0641,649,596,1245,3650,34.11%,886,886
 "Justice of the Peace, Precinct 4, Place 2",0648,838,579,1417,3367,42.08%,1089,1089
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Laryssa Korduba,Totals
 "Justice of the Peace, Precinct 4, Place 2",0657,246,172,418,1292,32.35%,202,202
 "Justice of the Peace, Precinct 4, Place 2",0658,540,426,966,2807,34.41%,683,683
 "Justice of the Peace, Precinct 4, Place 2",0659,1149,788,1937,4856,39.89%,1450,1450
@@ -123,7 +120,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice of the Peace, Precinct 4, Place 2",0726,592,402,994,2087,47.63%,890,890
 "Justice of the Peace, Precinct 4, Place 2",0729,135,59,195,464,42.03%,124,124
 "Justice of the Peace, Precinct 4, Place 2",0734,1558,962,2520,7005,35.97%,1863,1863
-"Justice of the Peace, Precinct 4, Place 2",0735,e,0,6,18,33.33%,6,6
+"Justice of the Peace, Precinct 4, Place 2",07356,0,6,18,33.33%,6,6
 "Justice of the Peace, Precinct 4, Place 2",0737,11,7,18,51,35.29%,14,14
 "Justice of the Peace, Precinct 4, Place 2",0738,139,100,239,1361,17.56%,56,56
 "Justice of the Peace, Precinct 4, Place 2",0747,550,467,1017,3743,27.17%,575,575
@@ -134,7 +131,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice of the Peace, Precinct 4, Place 2",0759,465,413,878,2730,32.16%,617,617
 "Justice of the Peace, Precinct 4, Place 2",0760,1432,639,2071,4367,47.42%,1771,1771
 "Justice of the Peace, Precinct 4, Place 2",0764,1133,774,1907,5217,36.55%,1302,1302
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Laryssa Korduba,Totals
 "Justice of the Peace, Precinct 4, Place 2",0767,10,2,12,86,13.95%,8,8
 "Justice of the Peace, Precinct 4, Place 2",0768,1359,1015,2374,5857,40.53%,2014,2014
 "Justice of the Peace, Precinct 4, Place 2",0776,551,496,1047,3053,34.29%,678,678
@@ -168,7 +164,6 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice of the Peace, Precinct 4, Place 2",0926,171,128,299,796,37.56%,241,241
 "Justice of the Peace, Precinct 4, Place 2",0934,2,0,2,63,3.17%,1,1
 "Justice of the Peace, Precinct 4, Place 2",0957,97,95,192,562,34.16%,44,44
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Laryssa Korduba,Totals
 "Justice of the Peace, Precinct 4, Place 2",0958,81,129,210,1081,19.43%,67,67
 "Justice of the Peace, Precinct 4, Place 2",0959,0,0,0,0,0.00%,0,0
 "Justice of the Peace, Precinct 4, Place 2",0960,196,157,353,976,36.17%,106,106
@@ -200,8 +195,7 @@ Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Regi
 "Justice of the Peace, Precinct 4, Place 2",1036,55,24,89,449,19.82%,76,76
 "Justice of the Peace, Precinct 4, Place 2",1038,52,6,68,327,20.80%,12,12
 "Justice of the Peace, Precinct 4, Place 2",1042,105,67,172,521,33.01%,61,61
-"Justice of the Peace, Precinct 4, Place 2",1043,e,6,12,33,36.36%,4,4
+"Justice of the Peace, Precinct 4, Place 2",10436,6,12,33,36.36%,4,4
 "Justice of the Peace, Precinct 4, Place 2",1044,16,6,22,55,40.00%,11,11
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Laryssa Korduba,Totals
 "Justice of the Peace, Precinct 4, Place 2",1045,197,173,370,1788,20.69%,71,71
 "Justice of the Peace, Precinct 4, Place 2",1047,255,186,441,1568,28.13%,202,202

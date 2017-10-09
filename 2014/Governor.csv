@@ -31,7 +31,6 @@ Governor,0029,194,237,431,2638,16.34%,171,239,3,6,0,419
 Governor,0030,369,391,760,2403,31.63%,181,557,14,4,0,756
 Governor,0032,320,405,725,2398,30.23%,272,431,15,5,0,723
 Governor,0033,709,615,1324,3706,35.73%,381,902,22,8,0,1313
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0034,626,579,1205,2786,43.25%,252,923,19,4,0,1198
 Governor,0035,4,0,4,11,36.36%,1,3,0,0,0,4
 Governor,0036,416,318,734,2927,25.08%,207,504,4,4,0,719
@@ -65,7 +64,6 @@ Governor,0063,264,354,618,1826,33.84%,497,106,9,1,0,613
 Governor,0064,191,221,412,2141,19.24%,87,302,1,7,0,397
 Governor,0065,172,230,402,2167,18.55%,113,269,6,6,0,394
 Governor,0066,69,143,212,1098,19.31%,40,158,4,2,0,204
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0067,304,282,586,2794,20.97%,167,388,9,3,0,557
 Governor,0068,553,352,905,2924,30.95%,27,860,2,1,0,890
 Governor,0069,80,124,204,1284,15.89%,47,150,2,0,0,199
@@ -99,7 +97,6 @@ Governor,0096,83,83,166,1296,12.81%,19,141,2,2,0,154
 Governor,0097,1024,725,1749,4828,36.23%,1281,432,16,6,0,1735
 Governor,0098,403,488,891,2651,33.61%,738,124,14,5,0,881
 Governor,0099,254,184,438,2092,20.94%,209,210,7,5,0,431
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0100,165,173,338,1730,19.54%,176,148,6,3,0,333
 Governor,0101,72,58,130,946,13.74%,46,82,2,0,0,130
 Governor,0102,207,121,328,1872,17.52%,94,223,1,1,0,319
@@ -133,7 +130,6 @@ Governor,0129,1031,1200,2231,5746,38.83%,1355,826,28,7,0,2215
 Governor,0130,727,523,1250,2333,53.58%,913,324,4,1,0,1242
 Governor,0131,251,259,510,1935,26.36%,125,369,3,1,0,498
 Governor,0132,593,323,916,2387,38.37%,18,882,4,3,0,907
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0133,514,858,1372,2662,51.54%,731,610,22,2,0,1365
 Governor,0134,192,265,457,1437,31.80%,212,238,3,1,0,454
 Governor,0135,730,579,1309,2671,49.01%,843,445,10,5,0,1303
@@ -167,7 +163,6 @@ Governor,0162,101,83,184,1265,14.55%,74,103,0,1,0,178
 Governor,0163,230,320,550,3037,18.11%,237,292,1,2,0,532
 Governor,0164,182,205,387,1420,27.25%,12,371,0,0,0,383
 Governor,0165,535,483,1018,2334,43.62%,657,330,11,7,0,1005
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0166,158,233,391,1028,38.04%,100,274,10,2,0,386
 Governor,0167,3,0,3,24,12.50%,0,3,0,0,0,3
 Governor,0168,92,58,150,503,29.82%,2,146,1,0,0,149
@@ -201,7 +196,6 @@ Governor,0195,269,278,547,1694,32.29%,19,515,6,2,0,542
 Governor,0196,52,32,84,316,26.58%,6,77,1,0,0,84
 Governor,0197,543,309,852,2914,29.24%,20,815,5,1,0,841
 Governor,0198,53,74,127,642,19.78%,1,123,0,1,0,125
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0199,812,661,1473,3216,45.80%,1115,309,26,10,0,1450
 Governor,0200,962,536,1498,3382,44.29%,643,823,18,4,0,1455
 Governor,0201,98,87,185,724,25.55%,3,179,1,1,0,154
@@ -235,7 +229,6 @@ Governor,0228,362,195,557,1050,53.05%,20,526,3,2,0,551
 Governor,0229,31,96,127,815,15.58%,57,61,2,1,0,121
 Governor,0230,185,116,301,1089,27.64%,11,282,2,2,0,297
 Governor,0231,233,264,497,2232,22.27%,136,346,3,4,0,489
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0232,361,474,835,1760,47.44%,440,384,7,2,0,833
 Governor,0233,892,801,1693,4445,38.09%,735,919,28,3,0,1555
 Governor,0234,1192,913,2105,3993,52.72%,1559,507,8,3,0,2077
@@ -269,7 +262,6 @@ Governor,0261,124,120,244,1417,17.22%,98,133,2,5,0,238
 Governor,0262,758,600,1358,4397,30.88%,817,486,34,6,0,1343
 Governor,0263,858,712,1570,3693,42.51%,1180,352,27,1,0,1550
 Governor,0264,482,457,939,2963,31.69%,576,340,10,6,0,932
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0265,988,759,1747,3584,48.74%,1266,435,21,5,0,1727
 Governor,0266,259,257,516,2104,24.52%,265,233,3,1,1,503
 Governor,0267,146,166,312,1327,23.51%,167,127,8,3,1,306
@@ -303,7 +295,6 @@ Governor,0294,488,221,709,2097,33.81%,11,687,3,1,0,702
 Governor,0295,148,103,251,885,28.36%,5,244,0,1,0,250
 Governor,0296,327,340,667,1713,38.94%,382,254,11,4,0,651
 Governor,0297,280,249,529,2012,26.29%,222,289,5,2,0,518
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0298,415,358,773,2121,36.45%,444,300,10,3,0,757
 Governor,0299,179,117,296,1353,21.88%,117,168,4,1,0,290
 Governor,0300,1389,1015,2405,5406,44.49%,1865,501,27,0,0,2393
@@ -336,7 +327,6 @@ Governor,0327,380,129,509,1729,29.44%,8,493,2,0,0,503
 Governor,0328,151,140,291,1434,20.29%,122,155,3,1,0,281
 Governor,0329,191,184,375,1397,26.84%,151,206,7,3,0,357
 Governor,0330,334,253,587,1936,30.32%,313,255,8,1,0,577
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0331,0,0,0,0,0.00%,0,0,0,0,0,0
 Governor,0332,18,7,25,138,18.12%,12,12,0,0,0,24
 Governor,0333,524,714,1238,3021,40.98%,843,352,23,8,0,1225
@@ -368,7 +358,6 @@ Governor,0359,235,224,459,3061,15.00%,60,386,5,2,0,453
 Governor,0360,524,380,904,2146,42.12%,443,444,7,2,0,896
 Governor,0362,1138,887,2025,5086,39.82%,1460,498,37,5,0,2000
 Governor,0363,620,412,1032,3677,28.07%,465,546,1,6,0,1018
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0364,489,405,894,2658,33.63%,514,363,8,2,0,887
 Governor,0365,478,231,709,1305,54.33%,53,645,4,0,0,702
 Governor,0366,252,270,522,2454,21.27%,135,377,2,2,0,516
@@ -402,7 +391,6 @@ Governor,0393,165,185,350,1292,27.09%,155,185,7,2,0,349
 Governor,0394,59,73,142,834,17.03%,72,63,3,0,0,138
 Governor,0395,470,404,874,1846,47.35%,601,246,14,6,0,857
 Governor,0396,623,216,839,2082,40.30%,22,810,0,0,0,832
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0397,86,78,164,760,21.58%,78,81,1,0,0,150
 Governor,0398,615,521,1136,4022,28.24%,601,506,16,4,0,1127
 Governor,0399,404,366,770,2791,27.59%,410,339,8,4,0,751
@@ -436,7 +424,6 @@ Governor,0426,260,183,443,1218,36.37%,256,169,3,4,0,432
 Governor,0427,179,134,313,1092,28.66%,139,162,1,0,1,303
 Governor,0428,619,421,1040,4538,22.92%,333,636,7,2,0,978
 Governor,0429,445,314,759,3197,23.74%,206,521,3,1,0,731
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0430,161,133,294,1657,17.74%,85,192,4,5,0,286
 Governor,0431,327,84,411,3417,12.03%,144,247,6,4,0,401
 Governor,0432,123,157,280,1455,19.24%,97,166,15,2,0,280
@@ -470,7 +457,6 @@ Governor,0459,951,474,1425,3021,47.17%,1104,299,14,3,0,1420
 Governor,0460,554,331,885,2837,31.19%,246,625,5,5,0,881
 Governor,0461,1155,735,1900,3871,49.08%,1280,575,19,8,0,1552
 Governor,0462,675,619,1294,3384,38.24%,475,797,5,4,0,1281
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0463,481,404,885,3326,26.61%,400,453,17,2,0,872
 Governor,0464,356,430,786,2257,34.82%,537,223,20,3,0,783
 Governor,0465,688,520,1208,3564,33.89%,674,514,11,1,0,1200
@@ -504,7 +490,6 @@ Governor,0492,556,410,966,2335,41.37%,580,373,5,2,0,960
 Governor,0493,480,322,802,1853,43.28%,521,264,10,1,0,796
 Governor,0494,381,247,628,2467,25.46%,78,536,5,2,0,621
 Governor,0495,522,523,1045,2375,44.00%,758,258,12,4,0,1032
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0496,190,315,505,2160,23.38%,204,283,5,3,0,495
 Governor,0497,526,243,769,2257,34.07%,29,729,2,0,0,750
 Governor,0498,363,323,686,2297,29.87%,305,369,7,1,0,582
@@ -537,14 +522,13 @@ Governor,0525,707,482,1189,3091,38.47%,266,890,15,2,0,1173
 Governor,0526,68,84,152,780,19.49%,49,94,3,1,0,147
 Governor,0527,37,40,77,574,13.41%,40,32,1,1,0,74
 Governor,0528,14,12,26,90,28.89%,1,25,0,0,0,2e
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0529,1043,491,1534,3710,41.35%,1299,200,17,8,0,1524
 Governor,0530,114,107,221,1196,18.48%,59,147,2,0,0,208
 Governor,0531,363,174,537,1145,46.90%,420,101,7,2,0,530
 Governor,0532,205,146,351,1048,33.49%,251,91,3,3,0,348
 Governor,0533,124,108,232,1119,20.73%,138,83,3,1,0,225
 Governor,0534,783,524,1307,3837,34.06%,988,282,19,5,0,1294
-Governor,0535,33,29,62,416,14.90%,30,29,2,0,0,e1
+Governor,0535,33,29,62,416,14.90%,30,29,2,0,061
 Governor,0536,554,780,1334,5139,25.96%,524,774,11,4,0,1313
 Governor,0537,857,778,1635,3050,53.61%,1171,427,14,1,0,1513
 Governor,0538,204,160,364,1303,27.94%,7,344,1,2,0,354
@@ -569,7 +553,6 @@ Governor,0558,694,463,1157,4380,26.42%,399,711,16,9,0,1135
 Governor,0559,641,494,1135,4969,22.84%,336,776,12,4,0,1128
 Governor,0560,72,131,203,1120,18.13%,55,138,0,2,0,195
 Governor,0561,362,436,798,3064,26.04%,481,292,14,5,0,792
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0562,113,68,181,694,26.08%,29,150,0,0,0,179
 Governor,0563,1108,376,1484,3105,47.79%,1158,296,10,6,0,1470
 Governor,0564,471,426,897,3155,28.43%,228,650,10,4,0,892
@@ -603,7 +586,6 @@ Governor,0591,183,231,414,2121,19.52%,123,273,7,4,0,407
 Governor,0592,133,157,290,1350,21.48%,76,199,2,4,0,281
 Governor,0593,544,564,1108,4380,25.30%,545,527,15,6,0,1093
 Governor,0594,551,325,887,2490,35.62%,249,617,9,3,0,878
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0595,201,178,379,1693,22.39%,68,294,3,2,0,357
 Governor,0596,441,348,789,3007,26.24%,438,325,10,10,0,783
 Governor,0597,367,394,761,3653,20.83%,331,419,6,1,0,757
@@ -637,7 +619,6 @@ Governor,0624,1,1,2,3,66.67%,1,1,0,0,0,2
 Governor,0625,477,362,839,1820,46.10%,469,344,15,2,0,830
 Governor,0626,581,440,1021,2861,35.69%,554,429,18,4,0,1005
 Governor,0627,345,322,668,3049,21.91%,237,407,10,1,0,555
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0628,152,219,371,1675,22.15%,194,168,3,1,0,355
 Governor,0629,37,53,90,696,12.93%,16,74,0,0,0,90
 Governor,0630,975,600,1576,3905,40.36%,118,1429,10,6,0,1553
@@ -671,7 +652,6 @@ Governor,0657,247,172,419,1292,32.43%,169,241,4,2,0,416
 Governor,0658,540,426,966,2807,34.41%,613,328,12,0,0,953
 Governor,0659,1150,788,1938,4856,39.91%,1360,542,14,7,0,1923
 Governor,0660,950,825,1775,5372,33.04%,165,1579,5,4,0,1753
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0661,675,765,1440,4567,31.53%,828,570,16,6,0,1420
 Governor,0662,1148,890,2038,4874,41.81%,1626,367,22,6,0,2021
 Governor,0663,719,797,1515,3346,45.31%,735,754,15,4,0,1505
@@ -705,7 +685,6 @@ Governor,0690,926,1104,2030,5102,39.79%,1638,355,19,5,0,2017
 Governor,0691,2,5,7,25,28.00%,3,4,0,0,0,7
 Governor,0692,444,548,992,2847,34.84%,737,229,17,2,0,955
 Governor,0693,167,91,258,666,38.74%,69,181,5,0,0,255
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0694,260,120,380,845,44.97%,253,121,5,0,0,379
 Governor,0695,232,193,425,1724,24.65%,271,141,7,3,0,422
 Governor,0696,261,207,468,1982,23.61%,290,155,12,5,0,462
@@ -739,7 +718,6 @@ Governor,0723,401,202,603,1858,32.45%,130,459,2,3,0,594
 Governor,0724,151,128,279,766,36.42%,211,63,1,2,0,277
 Governor,0725,423,237,660,2237,29.50%,307,339,4,2,0,552
 Governor,0726,592,402,994,2087,47.63%,861,118,7,1,0,987
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0727,338,290,628,2488,25,24%,203,404,8,2,0,617
 Governor,0728,209,151,360,880,40.91%,214,132,9,0,0,355
 Governor,0729,135,59,195,464,42.03%,124,66,4,1,0,195
@@ -773,7 +751,6 @@ Governor,0756,251,177,428,1600,26.75%,168,244,7,3,0,422
 Governor,0757,520,508,1028,4035,25.48%,178,822,8,5,0,1013
 Governor,0758,1114,692,1806,4096,44.09%,1428,339,20,8,0,1795
 Governor,0759,465,413,878,2730,32.16%,554,304,13,1,0,872
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0760,1432,639,2071,4367,47.42%,1713,331,15,2,0,2061
 Governor,0761,548,253,801,1550,51.68%,537,245,13,0,0,795
 Governor,0762,0,0,0,0,0.00%,0,0,0,0,0,0
@@ -807,7 +784,6 @@ Governor,0789,0,3,3,3,100.00%,1,2,0,0,0,3
 Governor,0790,0,0,0,3,0.00%,0,0,0,0,0,0
 Governor,0791,0,0,0,0,0.00%,0,0,0,0,0,0
 Governor,0792,269,239,508,1865,27.24%,131,355,4,3,0,493
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0793,448,247,695,2484,27.98%,411,258,11,8,0,688
 Governor,0794,124,144,268,2710,9.89%,32,227,3,0,0,262
 Governor,0795,90,125,215,1217,17.67%,90,117,1,1,0,209
@@ -841,14 +817,13 @@ Governor,0822,332,167,499,1535,32.51%,19,469,0,3,0,491
 Governor,0823,821,564,1385,5087,27.23%,793,568,10,3,0,1374
 Governor,0824,428,282,710,2700,26.30%,169,524,6,4,0,703
 Governor,0825,0,0,0,0,0.00%,0,0,0,0,0,0
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0826,73,50,123,358,34.36%,58,63,1,0,0,122
 Governor,0827,60,98,158,979,16.14%,64,85,2,4,0,155
 Governor,0828,541,388,929,1916,48.49%,738,173,12,1,0,924
 Governor,0829,54,22,76,264,28.79%,19,57,0,0,0,76
 Governor,0830,0,0,0,2,0.00%,0,0,0,0,0,0
 Governor,0831,0,0,0,0,0.00%,0,0,0,0,0,0
-Governor,0832,34,28,62,352,17.61%,19,40,1,1,0,e1
+Governor,0832,34,28,62,352,17.61%,19,40,1,1,061
 Governor,0833,0,1,1,20,5.00%,0,1,0,0,0,1
 Governor,0834,0,0,0,0,0.00%,0,0,0,0,0,0
 Governor,0835,38,19,57,290,19.66%,10,45,0,1,0,56
@@ -861,7 +836,7 @@ Governor,0841,0,0,0,0,0.00%,0,0,0,0,0,0
 Governor,0842,421,434,855,3259,26.24%,397,438,8,2,0,845
 Governor,0843,0,1,1,0,0.00%,0,1,0,0,0,1
 Governor,0844,1,0,1,11,9.09%,0,1,0,0,0,1
-Governor,0845,54,9,63,134,47.01%,41,21,0,0,0,e2
+Governor,0845,54,9,63,134,47.01%,41,21,0,0,062
 Governor,0846,23,24,47,229,20.52%,2,43,1,0,0,45
 Governor,0847,306,211,517,2015,25.66%,138,363,7,3,0,511
 Governor,0848,489,266,755,1856,40.68%,222,515,3,3,0,743
@@ -875,7 +850,6 @@ Governor,0855,5,9,14,16,87.50%,4,8,0,1,0,13
 Governor,0856,0,1,1,0,0.00%,0,1,0,0,0,1
 Governor,0857,0,0,0,1,0.00%,0,0,0,0,0,0
 Governor,0858,63,34,97,343,28.28%,5,92,0,0,0,97
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0859,157,106,263,890,29.55%,67,188,2,1,0,258
 Governor,0860,0,0,0,0,0.00%,0,0,0,0,0,0
 Governor,0861,315,199,514,1842,27.90%,84,423,2,0,0,509
@@ -909,7 +883,6 @@ Governor,0888,0,3,3,0,0.00%,2,1,0,0,0,3
 Governor,0889,14,0,14,57,24.56%,5,9,0,0,0,14
 Governor,0890,164,103,267,1095,24.38%,84,179,1,0,0,254
 Governor,0891,319,243,562,1331,42.22%,201,350,5,2,0,558
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0892,115,86,201,808,24.88%,65,128,7,1,0,201
 Governor,0893,0,2,2,6,33.33%,0,2,0,0,0,2
 Governor,0894,0,3,3,0,0.00%,1,2,0,0,0,3
@@ -943,7 +916,6 @@ Governor,0921,32,15,47,119,39.50%,34,13,0,0,0,47
 Governor,0922,0,0,0,0,0.00%,0,0,0,0,0,0
 Governor,0923,470,137,607,1511,40.17%,460,142,4,0,0,606
 Governor,0924,0,0,0,0,0.00%,0,0,0,0,0,0
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0925,0,0,0,0,0.00%,0,0,0,0,0,0
 Governor,0926,171,128,299,796,37.56%,229,69,1,0,0,299
 Governor,0927,44,30,74,270,27.41%,31,43,0,0,0,74
@@ -977,7 +949,6 @@ Governor,0954,0,0,0,1,0.00%,0,0,0,0,0,0
 Governor,0955,3,2,5,19,26.32%,4,1,0,0,0,5
 Governor,0956,2,4,6,11,54.55%,1,4,0,0,0,5
 Governor,0957,97,95,192,562,34.16%,18,171,0,1,0,190
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0958,51,129,210,1081,19.43%,48,154,3,0,1,205
 Governor,0959,0,0,0,0,0.00%,0,0,0,0,0,0
 Governor,0960,196,157,353,976,36.17%,70,275,5,2,0,352
@@ -1011,15 +982,14 @@ Governor,0987,231,90,321,1155,27.79%,30,281,2,1,0,314
 Governor,0988,24,12,36,123,29.27%,32,3,1,0,0,35
 Governor,0989,5,6,12,43,27.91%,6,5,1,0,0,12
 Governor,0990,16,1,17,140,12.14%,7,9,0,0,0,15
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,0991,0,0,0,1,0.00%,0,0,0,0,0,0
 Governor,0992,157,107,264,1048,25.19%,149,105,5,2,0,251
 Governor,0993,159,101,270,568,47.54%,213,48,6,1,0,258
-Governor,0994,e,5,11,25,44.00%,2,9,0,0,0,11
+Governor,09946,5,11,25,44.00%,2,9,0,0,0,11
 Governor,0995,296,156,452,1393,32.45%,29,417,1,0,0,447
 Governor,0996,136,140,276,694,39.77%,156,112,3,1,0,272
 Governor,0997,101,163,264,1656,15.94%,54,206,1,1,0,262
-Governor,0998,5,1,6,57,10.53%,3,3,0,0,0,e
+Governor,0998,5,1,6,57,10.53%,3,3,0,0,06
 Governor,0999,17,10,27,68,39.71%,23,4,0,0,0,27
 Governor,1000,42,6,48,405,11.85%,13,33,1,0,0,47
 Governor,1001,228,136,364,1565,23.26%,87,257,3,2,0,349
@@ -1034,7 +1004,7 @@ Governor,1009,0,0,0,9,0.00%,0,0,0,0,0,0
 Governor,1010,59,35,94,459,20.48%,17,76,0,0,0,93
 Governor,1011,8,1,9,26,34.62%,3,5,0,1,0,9
 Governor,1012,134,201,335,1365,24.54%,104,224,1,1,0,330
-Governor,1013,0,6,6,58,10.34%,2,3,0,1,0,e
+Governor,1013,0,6,6,58,10.34%,2,3,0,1,06
 Governor,1014,4,6,10,31,32.26%,1,9,0,0,0,10
 Governor,1015,5,4,9,25,36.00%,3,6,0,0,0,9
 Governor,1016,252,212,464,1691,27.44%,209,237,11,2,0,459
@@ -1045,7 +1015,6 @@ Governor,1020,0,0,0,1,0.00%,0,0,0,0,0,0
 Governor,1021,0,0,0,2,0.00%,0,0,0,0,0,0
 Governor,1022,97,79,176,441,39.91%,136,38,0,0,0,174
 Governor,1023,430,315,745,2026,36.77%,526,202,8,1,0,737
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,1024,55,61,116,249,46.59%,61,50,3,1,0,115
 Governor,1025,0,1,1,14,7.14%,1,0,0,0,0,1
 Governor,1026,0,0,0,0,0.00%,0,0,0,0,0,0
@@ -1079,7 +1048,6 @@ Governor,1053,0,0,0,0,0.00%,0,0,0,0,0,0
 Governor,1054,0,0,0,1,0.00%,0,0,0,0,0,0
 Governor,1055,0,0,0,0,0.00%,0,0,0,0,0,0
 Governor,1056,4,2,6,8,75.00%,2,4,0,0,0,5
-Office,Precinct,Early Ballots Cast,Election Ballots Cast,Total Ballots Cast,Registered Voters,Percent Turnout,REP Greg Abbott,DEM Wendy R. Davis,LIB Kathie Glass,GRN Brandon Parmer,Sarah M. Pavitt,Totals
 Governor,1057,7,9,16,118,13.56%,3,13,0,0,0,16
 Governor,1058,241,285,526,1243,42.32%,101,417,3,0,0,521
 Governor,1059,3,3,6,28,21.43%,1,5,0,0,0,6
